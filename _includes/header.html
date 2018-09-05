@@ -1,11 +1,37 @@
+<script type="application/javascript">
+    jQuery(document).ready(init);
+
+    function init() {
+    }
+
+    // function called by Processing when script is initialized
+    var ProcessingInit = function() {
+        function resizeWindow() {
+          // get the PJS canvas
+          var pCanvas = Processing.getInstanceById('pCanvas');
+          // call resize function of the Processing script
+          pCanvas.resize(jQuery(window).width(), jQuery(window).height());
+        }
+
+        // bind event to window resize function
+        jQuery(window).resize(resizeWindow);
+        // also call it once when the script is initialized
+        resizeWindow();
+    }
+</script>
+
 <a href="" id="top"></a>
-<div class='contain-to-grid sticky'>
-  <nav class='top-bar' data-options='sticky_on: large' data-topbar=''>
+
+<div class='contain-to-grid shadowless fixed'>
+  <div class='canvas'>
+    <canvas data-processing-sources={{ "/assets/js/header.pjs" | prepend: site.baseurl }} id="pCanvas"></canvas>
+  </div>
+  <nav class='top-bar' data-topbar=''>
     <ul class='title-area'>
       <li class='name'>
         <h1>
           <a href="{{site.url}}/index.html">
-            <img alt="" src="{{site.url}}/images/logo-bordered.png" />
+            barry threw
           </a>
         </h1>
       </li>
@@ -14,6 +40,13 @@
       </li>
     </ul>
     <section class='top-bar-section'>
+      <div class="social-icons">
+        <a href="http://twitter.com/{{ site.twitter_username }}"><i class="icon-twitter"></i></a>
+        <a href="http://facebook.com/{{ site.facebook_username }}"><i class="icon-facebook"></i></a>
+        <a href="http://linkedin.com/in/{{ site.linkedin_username }}"><i class="icon-linkedin"></i></a>
+        <a href="http://instagram.com/{{ site.instagram_username }}"><i class="icon-instagram"></i></a>
+        <a href="mailto:{{ site.email }}"><i class="icon-email"></i></a>
+      </div>
       <ul class="right">
         {% for item in site.data.nav %}
           {% if item.section_id == page.section_id %}

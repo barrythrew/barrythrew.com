@@ -1,0 +1,86 @@
+---
+layout: default
+section_id: portfolio
+---
+
+<div class='full'>
+  <div class='row'>
+    <div class='large-8 columns'>
+      <div class='mod modBoxedSlider'>
+        {% if page.herovimeoid %}
+          {% include vimeoPlayer.html id=page.herovimeoid %}
+        {% endif %}
+
+        <div class='slides'>
+          {% if page.images %}
+            {% for image in page.images %}
+              <div class="slide">
+                <img src="/assets/images{{page.url}}{{image}}" alt="">
+              </div>
+            {% endfor %}
+          {% endif %}
+        </div>
+      </div>
+    </div>
+    <div class='large-4 columns'>
+      <h2>{{page.title}}</h2>
+      <p>
+        {{page.description}}
+      </p>
+      <ul class='info'>
+        <li>
+          <strong>Dates:</strong>
+          {{page.dates}}
+        </li>
+        <li>
+          <strong>Location:</strong>
+          {{page.location}}
+        </li>
+        <li>
+          <strong>Role:</strong>
+          {{page.role}}
+        </li>
+        {% if page.link %}
+        <li>
+          <strong>Link:</strong>
+          <a href="{{page.link}}">{{page.linktext}}</a>
+        </li>
+        {% endif %}
+        <li>
+          <strong>Collaborators:</strong>
+          <ul>
+          {% for collaborator in page.collaborators %}
+            <li>
+              {{collaborator}}
+            </li>
+          {% endfor %}
+          </ul>
+        </li>
+      </ul>
+    </div>
+  </div>
+  <div class='four spacing'></div>
+  <div class='row'>
+
+    {% if page.videos %}
+      <ul class='large-block-grid-2 medium-block-grid-2 small-block-grid-2 separated press-video-grid'>
+            {% for video in page.videos %}
+            <li class='grid-item'>
+              <div class="vidContainer">
+                {% capture videoid %}{{ video }}{% endcapture %}
+                {% include vimeoPlayer.html id=videoid %}
+              </div>
+            </li>
+            {% endfor %}
+      </ul>
+      <div class='two spacing'></div>
+    {% endif %}
+
+    <hr />
+    
+    <div class='contentblock'>
+      {{content}}
+    </div>
+  </div>
+  <div class='four spacing'></div>
+</div>

@@ -1,18 +1,27 @@
 # Site settings
-title: Elbe
-email: your-email@domain.com
+title: "Barry Threw"
+email: me@barrythrew.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 baseurl: "" # the subpath of your site, e.g. /blog/
-# url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+url: "http://barrythrew.com" # the base hostname & protocol for your site
+
+instagram_username: barrythrew
+facebook_username: barrythrew
+twitter_username: barrythrew
+github_username:  barrythrew
+linkedin_username: barrythrew
+
+permalink: pretty
 
 # Build settings
 markdown: kramdown
 
-
 paginate: 4
 paginate_path: "blog/page:num"
+
+collections:
+  projects:
+    output: true

@@ -1,0 +1,594 @@
+- title: An Interview with Keith McMillen
+  link: http://cycling74.com/story/2009/3/23/132754/554
+  project: Keith McMillen
+  source: Cycling &#8217;74
+  date: 2009-09
+  selected: no
+
+- title: Recombinant Media Labs Teams up with Gray Area for Downtown Arts Corridor
+  link: http://blogs.sfweekly.com/shookdown/2009/02/recombinant_media_labs_teams_u.php
+  project: RML
+  source: SFWeekly 
+  date: 2009-02
+  selected: no
+
+- title: Top 10 Products from Winter NAMM 2009
+  link: http://mixonline.com/mixline/winter_namm_report_1002/index1.html
+  source: Mix Magazine
+  date: 2009-02
+  project: Keith McMillen
+  selected: no
+
+- title: Electronic Musician TV
+  link: http://emusician.com/ms/namm/video/keith_mcmillan_k_bow/
+  source: Electronic Musician 
+  date: 2009-02
+  project: K-Bow
+  selected: no
+
+- title: K-Bow Instigates Symphonic Class Warfare
+  link: http://www.gearwire.com/keithmcmillen-kbow.html
+  source: Gearwire
+  date: 2008-11
+  project: K-Bow
+  selected: no
+
+- title: Keith McMillen Unveils String Instrument Interfaces
+  link: http://www.electronista.com/articles/08/11/07/mcmillen.string.interfaces/
+  source: Electronista
+  date: 2008-11
+  project: StringPort
+  selected: no
+
+- title: Berklee College of Music Alumni Profile
+  link: http://www.berklee.edu/profiles/alumni/threw.html
+  source: Berklee College of Music
+  date: 2008-02
+  project: General
+  selected: no
+
+- title: Not Your Grandfathers Big Bands
+  link: http://eugeneweekly.com/2008/07/31/music2.html
+  source: Eugene Weekly
+  date: 2007-07
+  project: Music
+  selected: no
+
+- title: Asphodel and Recombinant Media Labs
+  link: http://www.xlr8r.com/news/2007/05/xlr8r-tv-episode-10-asphodel-and
+  source: XLR8R TV
+  date: 2007-05
+  project: RML
+  selected: no  
+
+- title: TrioMetrik on North Bay Reporter
+  link: http://www.beamfoundation.org/media/BEAM-NBR-070312.mov
+  source: North Bay Reporter
+  date: 2007-03
+  project: TrioMetrik
+  selected: no
+
+- title: Keith McMillen on KRON
+  link: http://www.beamfoundation.org/media/BEAM-KRON-070304.mov
+  source: KRON
+  date: 2007-03
+  project: TrioMetrik
+  selected: no
+
+- title: Keith McMillen on Comcast Local Edition
+  link: http://www.beamfoundation.org/media/BEAM-Comcast-070110.mov
+  source: Comcast Local Edition
+  date: 2007-02
+  project: TrioMetrik
+  selected: no
+
+- title: 360-Degree Art for All Senses
+  link: http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/10/22/PKGQCLQGUC1.DTL&hw=Recombinant%2BMedia%2BLabs&sn=001&sc=1000
+  source: SF Gate
+  date: 2006-10
+  project: RML
+  selected: no  
+
+- title: Pushing Boundaries of Audio and Visual Surround
+  link: http://mixonline.com/design/profiles/audio_recombinant_media_labs/
+  source: Mix Magazine
+  date: 2006-10
+  project: RML
+  selected: no  
+
+- title: The Outer and Inner Limits of Sight and Sound Explored by Naut Humon and Recombinant Media Labs
+  link: http://www.sf360.org/features/the-outer-and-inner-limits-of-sight-and-sound-explored-by-naut-humon-and-recombinant-media-labs
+  source: SF 360
+  date: 2006-08
+  project: RML
+  selected: no  
+
+- title: "How One Syrian Fought to the Death for a Free Internet"
+  source: "Wired"
+  link: https://www.wired.com/story/how-one-syrian-fought-to-the-death-for-a-free-internet/
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Bassel Khartabil's Story Proves Online Activism is Still Powerful"
+  source: "Wired"
+  link: https://www.wired.com/story/free-bassel-essay/
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "ISIS recaptures Palmyra: A fresh assault on heritage sites?"
+  source: "Christian Science Monitor"
+  link: http://www.csmonitor.com/World/Middle-East/2016/1210/ISIS-recaptures-Palmyra-A-fresh-assault-on-heritage-sites-video
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Al Arabiya News Bulletin / Special on Bassel Khartabil and #newpalmyra Project"
+  link: https://www.youtube.com/watch?v=6Q99ymWV2BA
+
+- title: "Bassel Khartabil, prisonnier syrien qui vit et risque de mourir pour Internet"
+  source: "slate.fr"
+  link: http://m.slate.fr/story/107927/bassel-khartabil-prisonnier-syrien-internet
+  language: fr
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "On the death of Bassel Khartabil"
+  source: "Joi Ito, MIT Media Lab"
+  link: https://www.media.mit.edu/posts/on-the-death-of-bassel-khartabil/
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Bassel Khartabil: fears for man who brought open internet to the Arab world"
+  source: "The Guardian"
+  link: http://www.theguardian.com/technology/2015/dec/11/bassel-khartabil-fears-for-man-who-brought-open-internet-to-the-arab-world
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Bassel Khartabil: Missing Syrian-Palestinian 'executed'"
+  source: "Al Jazeera"
+  link: http://www.aljazeera.com/news/2017/08/bassel-khartabil-missing-syrian-palestinian-executed-170802100920059.html
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Palmyra's Ancient Arch, Destroyed By ISIS, To Rise Again In London"
+  source: "NPR"
+  link: http://www.npr.org/sections/parallels/2016/04/18/474686269/palmyras-ancient-arch-destroyed-by-isis-to-rise-again-in-london
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "You can now upload 3D models to Wikimedia Commons"
+  source: "Wikimedia"
+  link: https://blog.wikimedia.org/2018/02/20/three-dimensional-models/
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Director Barry Threw at CyArk Summit 2015"
+  link: https://www.youtube.com/watch?v=kxCyhKj969Q
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Free 3D Printable of the Week: #NEWPALMYRA"
+  source: "3D Printing Industry"
+  link: http://3dprintingindustry.com/2015/10/23/free-3d-printable-of-the-week-newpalmyra/
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Jon Phillips on #freebassel Campaign #newpalmyra #protocultural and events"
+  link: https://www.youtube.com/watch?v=EZkLb01JCiw
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Technology and Cultural Heritage Preservation"
+  source: "Patty Gerstenblith"
+  link: http://displayatyourownrisk.org/gerstenblith/
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "When All Roads Led to Palmyra"
+  source: "History Today"
+  link: http://www.historytoday.com/raoul-mclaughlin/when-all-roads-led-palmyra
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Wikimedians pack their bags and head to Montreal for 13th annual Wikimania"
+  source: "Wikimedia"
+  link: https://blog.wikimedia.org/2017/08/11/wikimania-2017-release/
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Can we 3D re-print the history we’ve destroyed?"
+  source: "Quartz"
+  link: http://qz.com/656151/can-we-3d-re-print-the-history-weve-destroyed/
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "'They Can't Stop Us' — World Mourns Execution of Palestinian-Syrian Activist Bassel Khartabil Safadi by the Assad Regime"
+  source: "Global Voices"
+  link: https://globalvoices.org/2017/08/06/they-cant-stop-us-world-mourns-execution-of-palestinian-syrian-activist-bassel-khartabil-safadi-by-the-assad-regime/amp/
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Report: Syrian-Palestinian Open Internet Advocate Bassel Khartabil Has Been Executed"
+  source: "The Fader"
+  link: http://www.thefader.com/2017/08/01/creative-commons-bassel-khartabil-death
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Statement on the death of CC friend and colleague Bassel Khartabil"
+  source: "Creative Commons"
+  link: https://creativecommons.org/2017/08/01/bassel/
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Help Fight ISIS by Rebuilding Palmyra in 3D"
+  source: "The Creators Project"
+  link: http://thecreatorsproject.vice.com/blog/help-fight-isis-by-rebuilding-palmyra-in-3d
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Should we 3D print a new Palmyra?"
+  source: "The Conversation"
+  link: http://theconversation.com/should-we-3d-print-a-new-palmyra-57014 
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "A Jailed Activist’s 3-D Models Could Save Syria’s History From ISIS"
+  source: "WIRED"
+  link: http://www.wired.com/2015/10/jailed-activist-bassel-khartabil-3d-models-could-save-syrian-history-from-isis/#slide-4
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "L’exécution en 2015 du Syrien Bassel Khartabil confirmée"
+  source: "Reporters Sans Frontieres"
+  link: https://rsf.org/fr/actualites/lexecution-en-2015-du-syrien-bassel-khartabil-confirmee
+  language: fr
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Resurrecting Palmyra's Tetrapylon with 3D printing"
+  link: https://www.youtube.com/watch?v=FdltBJnCU60
+  categories: [ video ]
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Reconstruir la ciudad de Palmira gracias a Internet"
+  link: https://www.youtube.com/watch?v=IkPv4dBimjk
+  categories: [ video ]
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Reconstruir la ciudad de Palmira gracias a Internet"
+  source: "El Futuro"
+  link: http://one.abc.es/reconstruir-la-ciudad-de-palmira-gracias-internet/
+  language: es
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "MIT Media Lab Is Helping to Digitally Reconstruct Syrian City Ravaged ISIS"
+  source: "Boston Magazine"
+  link: http://www.bostonmagazine.com/arts-entertainment/blog/2015/11/10/mit-media-lab-new-palmyra-project/
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Bassel Khartabil: Missing Syrian-Palestinian 'Executed'"
+  source: "Malaysian Digest"
+  link: http://www.malaysiandigest.com/world/690564-bassel-khartabil-missing-syrian-palestinian-executed.html
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Creative Commons launches Memorial Fund Grants and Fellowship in Memory of Bassel Khartabil"
+  source: "Creative Commons"
+  link: https://creativecommons.org/2018/02/07/bassel-post/
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Bassel Khartabil, In Memoriam"
+  source: "Electronic Frontier Foundation"
+  link: https://www.eff.org/deeplinks/2017/08/bassel-khartabil-memoriam
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Syrian-Palestinian Online Activist Bassel Khartabil Confirmed Dead Years After Arrest in Syria"
+  source: "Haaretz"
+  link: http://www.haaretz.com/middle-east-news/syria/1.804792
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Bassel Khartabil, Syrian-Palestinian Online Activist, Executed by Syrian Government"
+  source: "Inverse Culture"
+  link: https://www.inverse.com/article/34981-freebassel-bassel-khartabil-execution-october-2015-syria
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "The Heroic Effort to Digitally Reconstruct Lost Monuments"
+  source: "Smithsonian Magazine"
+  link: http://www.smithsonianmag.com/history/heroic-effort-digitally-reconstruct-lost-monuments-180958098/ 
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "MIT Media Lab reaches out to jailed Syrian activist with research position in Center for Civic Media"
+  source: "Joi Ito"
+  link: http://joi.ito.com/weblog/2015/10/22/mit-media-lab-r.html
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Artists and Writers Celebrate the Work of Missing Syrian Developer Bassel Safadi"
+  source: "Global Voices"
+  link: https://globalvoices.org/2017/06/05/artists-and-writers-celebrate-the-work-of-missing-syrian-developer-bassel-safadi/
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Wikipedia founder: Information can beat oppression"
+  source: "CNN"
+  link: http://edition.cnn.com/2016/01/20/opinions/wales-wikipedia-information-beats-oppression/
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Armas 3D desde Murcia contra las bombas del ISIS"
+  source: "El Mundo"
+  link: http://www.elmundo.es/papel/historias/2016/08/08/57a8654222601dfa1a8b4647.html
+  language: es
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Tech world takes on icon-smashing Islamic State with a virtual Palmyra"
+  source: "Christian Science Monitor"
+  link: http://www.csmonitor.com/World/Middle-East/2015/1124/Tech-world-takes-on-icon-smashing-Islamic-State-with-a-virtual-Palmyra
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Barry Threw at Shenzhen Assembly 2016"
+  link: https://www.youtube.com/watch?v=z8t4dWg_O5Y
+  categories: [ video ]
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Against a Pile of Ashes"
+  source: "Victoria and Albert Museum"
+  link: http://www.vam.ac.uk/blog/research-department/against-a-pile-of-ashes
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "باسل خرطبيل، السجين السوري الذي يكاد يفقد حياته من أجل الإنترنت "
+  source: "Global Voices"
+  link: https://ar.globalvoices.org/2015/12/03/40385/
+  language: ar 
+
+- title: "An Open-Source Project to Rebuild Palmyra"
+  source: "Architect Magazine"
+  link: http://www.architectmagazine.com/technology/an-open-source-project-to-rebuild-palmyra_o
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Missing Syrian internet activist Bassel Khartabil executed in 2015"
+  source: "CNN"
+  link: http://www.cnn.com/2017/08/02/middleeast/syrian-internet-activist-executed/index.html
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Honouring Bassel Khartabil, Syrian digital activist"
+  source: "Index on Censorship"
+  link: https://www.indexoncensorship.org/2017/08/honouring-bassel-khartabil-syrian-digital-activist/
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "#NewPalmyra Crowdsources the Majestic History That ISIS Destroyed in Syria"
+  source: "Global Voices"
+  link: https://globalvoices.org/2016/04/01/newpalmyra-crowdsources-the-majestic-history-that-isis-in-syria-destroyed/
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Archaeologists armed with ‘cheap’ 3D cameras hope to rebuild ancient sites razed by Islamic State"
+  source: "news.com.au"
+  link: http://www.news.com.au/world/middle-east/archaeologists-armed-with-cheap-3d-cameras-hope-to-rebuild-ancient-sites-razed-by-islamic-state/story-fnh81ifq-1227585618935
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Should museums be recreating the past?"
+  source: "Creative Review"
+  link: https://www.creativereview.co.uk/cr-blog/2016/july/should-museums-be-recreating-the-past/
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Erasing Isis: how 3D technology now lets us copy and rebuild entire cities"
+  source: "Guardian"
+  link: http://www.theguardian.com/cities/2016/may/27/isis-palmyra-3d-technology-copy-rebuild-city-venice-biennale
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Archaeologists Revive Missing Activist's Dream Of Reconstructing Palmyra"
+  source: "Huffington Post"
+  link: http://www.huffingtonpost.com/entry/new-palmyra-project-bassel-khartabil_us_5694175de4b0c8beacf80a9a
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "The problem with rebuilding a Palmyra ruin destroyed by ISIS – does it simply help Assad?"
+  source: "Washington Post"
+  link: https://www.washingtonpost.com/news/worldviews/wp/2016/04/20/the-problem-with-rebuilding-a-roman-ruin-destroyed-by-isis-does-it-simply-help-assad/
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "A Virtual Legacy Lives On"
+  source: "FON Formnext Mag"
+  link: http://fon-mag.de/trends/2017-02-palmyra/?L=1
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Programmers and artists are fighting ISIL’s destruction with 3D printers"
+  source: "Quartz"
+  link: http://qz.com/599752/programmers-and-artists-are-fighting-isils-destruction-with-3d-printers/
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Wikipedia Goes 3D Allowing Users to Upload .STLS For Digital Reference"
+  source: "3d Printing Industry"
+  link: https://3dprintingindustry.com/news/wikipedia-goes-3d-allowing-users-upload-stls-digital-reference-129340/
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "3D printed replica of destroyed Palmyra Tetrapylon showcased at Creative Commons Summit"
+  source: "3ders.org"
+  link: http://www.3ders.org/articles/20170502-3d-printed-replica-of-destroyed-palmyra-tetrapylon-showcased-at-creative-commons-summit.html
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "In Memorium Bassel Khartabil"
+  source: "Lorna Campbell"
+  link: http://lornamcampbell.org/history/in-memorium-bassel-khartabil/
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Honoring Our Friend Bassel: Announcing the Bassel Khartabil Free Culture Fellowship"
+  source: "Creative Commons"
+  link: https://creativecommons.org/2017/08/11/bassel-free-culture-fellowship/
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Syrie: qu’est devenu le prisonnier Bassel Khartabil, pionnier syrien de l’Internet libre?"
+  source: "France24"
+  link: http://www.france24.com/fr/20151218-bassel-khartabil-disparition-prison-syrie-pionnier-internet-libre-syrie-assad
+  language: fr 
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Internetaktivister genrejser Palmyra uden Islamisk Stats &oslash;del&aelig;ggelser"
+  source: "Politiken"
+  link: http://politiken.dk/kultur/arkitektur/ECE2928172/internetaktivister-genrejser-palmyra-uden-islamisk-stats-oedelaeggelser/
+  language: dk
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Radio interview with Barry Threw on Bassel Khartabil: the missing Syrian open-source software developer"
+  source: "ORF FM4 Radio"
+  link: http://fm4.orf.at/player/20160201/RC/133055
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Director Barry Threw at ProtoCultural Paris 2015"
+  link: https://vimeo.com/146124282
+  categories: [ video ]
+
+- title: "Man who created 3D version of Palmyra before city was destroyed by ISIS killed by Assad regime"
+  source: "Evening Standard"
+  link: https://www.standard.co.uk/news/world/man-who-created-3d-version-of-palmyra-before-it-was-destroyed-by-isis-killed-by-assad-regime-a3603436.html
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Disappeared Palestinian-Syrian software developer reportedly executed"
+  source: "Electronic Intifada"
+  link: https://electronicintifada.net/blogs/maureen-clare-murphy/disappeared-palestinian-syrian-software-developer-reportedly-executed
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Story of cities #28: how postwar Warsaw was rebuilt using 18th century paintings"
+  source: "Guardian"
+  link: https://www.theguardian.com/cities/2016/apr/22/story-cities-warsaw-rebuilt-18th-century-paintings
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Syrian Activist Bassel Khartabil Reportedly Killed by Assad Regime"
+  source: "Albawaba News"
+  link: https://www.albawaba.com/news/syrian-activist-bassel-khartabil-reportedly-killed-assad-regime-1004722
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "#NEWPALMYRA, la technologie face à la barbarie"
+  source: "ARTE futuremag"
+  link: http://futuremag.asf-prod.arte.tv/fr/newpalmyra-la-technologie-face-la-barbarie-futuremag-0
+  language: fr
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Bassel lived for a peaceful and open Syria - so they killed him"
+  source: "Independent IE"
+  link: http://www.independent.ie/world-news/middle-east/bassel-lived-for-a-peaceful-and-open-syria-so-they-killed-him-36002406.html
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "How Virtual Reality Could Change the Art World"
+  source: "JStor Daily"
+  link: https://daily.jstor.org/how-virtual-reality-could-change-the-art-world/
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Disappeared Syrian Activist&#039;s 3-D Models Could Save Palmyra"
+  source: "The Voice of America"
+  link: http://m.voanews.com/a/bassel-khartabil-palmyra-creative-commons-syria-islamic-state/3033453.html
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "How a 3D-printed piece of Palmyra landed in Toronto"
+  source: "CBC News"
+  link: http://www.cbc.ca/news/technology/3d-printed-tetrapylon-palmyra-syria-creative-commons-1.4090368
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "What’s the Value of Recreating the Palmyra Arch with Digital Technology?"
+  source: "Hyperallergic"
+  link: http://hyperallergic.com/292006/whats-the-value-of-recreating-the-palmyra-arch-with-digital-technology/?wt=2
+  language: en
+  project: "#NEWPALMYRA"
+  selected: no  
+
+- title: "Art, Tech, and Gentrification in San Francisco"
+  source: "Hyperallergic"
+  link: https://hyperallergic.com/99205/art-tech-and-gentrification-in-san-francisco
+  language: en
+  project: "Artup"
+  selected: no  

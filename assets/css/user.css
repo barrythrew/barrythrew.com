@@ -1,0 +1,113 @@
+table {
+	border: 0px;
+	width: 100%;
+}
+
+td {
+	border-bottom: 1px solid gray;
+}
+
+.columns {
+	padding-left: 10px;
+}
+
+div .social-icons {
+	margin-left:20px;
+	display:inline;
+}
+
+div .social-icons a {
+	color: #b9b9b9;
+}
+
+div .social-icons a:hover {
+	color: #333333;
+}
+
+#profile {
+  width: 250px;
+  border-radius: 50%;
+  float:left;
+  margin-right: 25px;
+}
+
+ .vidContainer {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+    background: black;
+ }
+
+ .vidFrame {
+     position: absolute;
+     top: 0;
+     left: 0;
+     width: 100%;
+     height: 100%;
+ }
+
+ .press-video-grid li {
+  padding: 10px 10px 10px 10px;
+ }
+
+ .welcome p {
+  padding: 10px 10px 20px 10px;
+  font-size: 1.75em; 
+ }
+
+
+.embed-container {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+
+.embed-container iframe, .embed-container object, .embed-container embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.slide {
+  display: block;
+  object-fit: contain;
+  max-width: 100%;
+  max-height: 100%;
+  overflow: hidden;
+}
+
+.slide img {
+  display: block;
+  object-fit: contain;
+  margin: 0px auto auto auto;
+  max-width: 100%; 
+  max-height: 480px;
+  width: 100%;
+}
+
+.slides {
+  width: 720px;
+  height: 480px;
+}
+
+.modBoxedSlider {
+  height: 480px;
+}
+
+.contentblock {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+hr {
+  margin: 25px 0;
+  height: 1px;
+  border: 0;
+  background: black;
+  background: -webkit-gradient(linear, 0 0, 100% 0, from(white), to(white), color-stop(50%, black));
+}
