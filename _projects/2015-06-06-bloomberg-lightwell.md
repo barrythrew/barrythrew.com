@@ -7,14 +7,13 @@ link_to: portfolio-item
 layout: portfolio-item
 category: Design &amp; Development
 images:
-  - upper+level_s.jpg
+  - 04_isa_bloombergsf-1600x1067_s.jpg
   - Seth_Mach_Lightwell_4_s.jpg
   - Seth_Mach_Lightwell_3_s.jpg
   - Seth_Mach_Lightwell_1_s.jpg
   - down_s.jpg
   - bloomberg-tech-hub-office-2N406eluNp-full-width_s.jpg
   - 11_isa_bloombergsf-1600x1067_s.jpg
-  - 04_isa_bloombergsf-1600x1067_s.jpg
 herovimeoid:
 videos:
 description: Architectural lightwell with diffuse generative media playback system.

@@ -1,0 +1,59 @@
+- type: Work
+  company: Twist Bioscience
+  url: http://www.twistbioscience.com
+  role: Product Concepting
+  startDate: 12/18
+  endDate: 06/19
+  description:
+
+- type: Work
+  company: Fabricatorz
+  url: https://fabricatorz.com
+  role: Co-Founder / CEO
+  startDate: 01/08
+  endDate: Present
+  description:
+
+- type: Work
+  company: Facebook Building 8
+  url: https://facebook.com
+  role: Prototyping Engineer
+  startDate: 10/17 
+  endDate: 03/18
+  description:
+
+- type: Work
+  company: Obscura Digital
+  url: https://obscuradigital.com
+  role: Director of Software
+  startDate: 02/10
+  endDate: 07/16
+  description: |
+        Obscura, a global innovator in creative vision, technical strategy, and engaging events, delivers entertaining, informative, and educational communications experiences for an international client base.
+
+        For more than a decade, Obscura has been delving into new and inventive territories for some of the world’s most forward-thinking corporations, governments, museums, and public institutions.
+
+        Obscura&#8217;s creative technology studio, equipped with the imaginative minds of designers, artists, composers, and engineers, manifests award-winning installations and major international events that generate a sense of awe, wonder, and inspiration for live audiences.
+
+- type: Work
+  company: Keith McMillen Instruments
+  url: https://keithmcmillen.com
+  role: Director of Software
+  startDate: 11/06
+  endDate: 01/10
+  description: |
+        Keith McMillen Instruments makes innovative technology for string instruments. Our products let musicians that are familiar with traditional string instruments (violin, viola, cello, bass, or guitar) use the computer as an extension of their current playing ability. New technology inspires new art, and we hope that our products will enable performers to take their music in directions never before possible.
+
+        KMI&#8217;s first two flagship products are the K-Bow, the first commercially available wireless sensor bow, and StringPort, a polyphonic string-to-USB 2.0 converter with a unique, powerful, and extensible software suite that greatly expands the synthesis and processing palette of guitarists, violinists, bassists, and other stringed instrument players.
+        
+        In 2011 the SoftStep, a multi-dimensional lightweight foot controller was released with an integrated software suite, further redefining the landscape for powerful and portable equipment for live electronica music performance.
+
+- type: Work
+  company: Recombinant Media Labs
+  url: https://keithmcmillen.com
+  role: Software and Technical Direction
+  startDate: 06/06
+  endDate: Present
+  description: |
+        Recombinant Media Labs is dedicated to immersive and interactive media research, development and presentation. We explore the emerging medium of &#8220;spatial media synthesis&#8221;, the merging of surround sound and surround video, and their placement in space. Our current nomadic festival apparatus is a 10-screen, 360-degree, surround cinema space with full surround sound capabilities.
+

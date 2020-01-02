@@ -2,30 +2,13 @@
 layout: default
 section_id: portfolio
 ---
-
-<div class='full'>
+<div class='full' itemscope itemtype="http://schema.org/CreativeWork">
   <div class='row'>
-    <div class='large-8 columns'>
-      <div class='mod modBoxedSlider'>
-        {% if page.herovimeoid %}
-          {% include vimeoPlayer.html id=page.herovimeoid %}
-        {% endif %}
 
-        <div class='slides'>
-          {% if page.images %}
-            {% for image in page.images %}
-              <div class="slide">
-                <img src="/assets/images{{page.url}}{{image}}" alt="">
-              </div>
-            {% endfor %}
-          {% endif %}
-        </div>
-      </div>
-    </div>
     <div class='large-4 columns'>
-      <h2>{{page.title}}</h2>
+      <h2 itemprop="name">{{page.title}}</h2>
       <p>
-        {{page.description}}
+        <span itemprop="description">{{page.description}}</span>
       </p>
       <ul class='info'>
         <li>
@@ -51,13 +34,32 @@ section_id: portfolio
           <ul>
           {% for collaborator in page.collaborators %}
             <li>
-              {{collaborator}}
+              <span itemprop="contributor">{{collaborator}}</span>
             </li>
           {% endfor %}
           </ul>
         </li>
       </ul>
     </div>
+
+    <div class='large-8 columns'>
+      <div class='mod modBoxedSlider'>
+        {% if page.herovimeoid %}
+          <span itemprop="video">{% include vimeoPlayer.html id=page.herovimeoid %}</span>
+        {% endif %}
+
+        <div class='slides'>
+          {% if page.images %}
+            {% for image in page.images %}
+              <div class="slide">
+                <img itemprop="image" src="/assets/images{{page.url}}{{image}}" alt="{{page.title}} {{ forloop.index }}">
+              </div>
+            {% endfor %}
+          {% endif %}
+        </div>
+      </div>
+    </div>
+    
   </div>
   <div class='four spacing'></div>
   <div class='row'>
@@ -66,7 +68,7 @@ section_id: portfolio
       <ul class='large-block-grid-2 medium-block-grid-2 small-block-grid-2 separated press-video-grid'>
             {% for video in page.videos %}
             <li class='grid-item'>
-              <div class="vidContainer">
+              <div itemprop="video" class="vidContainer">
                 {% capture videoid %}{{ video }}{% endcapture %}
                 {% include vimeoPlayer.html id=videoid %}
               </div>

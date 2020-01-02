@@ -1,46 +1,25 @@
 ---
 layout: default
 section_id: portfolio
+description: Barry Threw is a curator, technologist, designer, cultural producer & strategist  working across digital art, built environments, experiential and immersive media,  architectural projection mapping, and technology platforms.
+thumbnail: profile.jpg
 ---
 
-<div class='full'>
+<div class='full' itemscope itemtype="http://schema.org/CollectionPage">
   <div class='row welcome'>
-    <p>Welcome. I'm Barry Threw, a curator, technologist, designer, cultural producer & strategist with over 15 years of experience developing innovative & influential experiences, products, teams, and businesses ranging across art, built environment, events, and media platforms. I'm co-Founder/CEO of <a href="http://fabricatorz.com">Fabricatorz</a>, Director of <a href="http://newpalmyra.org">#NEWPALMYRA</a>, on the Board of <a href="http://grayarea.org">Gray Area</a>, and am based in San Francisco, CA. <a href="{{site.url}}/about/">More...</a>
+    <p>Welcome. I'm Barry Threw. I've worked as a curator, technologist, designer, cultural producer & strategist, and have over a decade of experience developing innovative & influential platforms, products, teams, and businesses across art, built environments, and experiential & immersive media. I'm currently the Executive Director of <a href="http://grayarea.org">Gray Area</a>, and a partner with <a href="http://fabricatorz.com">Fabricatorz</a>. I'm based in San Francisco. <a href="about/">More...</a>
     </p>
 
   </div>
   <div class='row'>
     <div class='modGallery masonry-container'>
-<!--
-      <div class='gallery-nav'>
-        <ul>
-          <li class='current'>
-            <a data-cat='all' href='#'>All</a>
-          </li>
-          <li>
-            <a data-cat='graphic-design' href='#'>Graphic Design</a>
-          </li>
-          <li>
-            <a data-cat='web-design' href='#'>Web Design</a>
-          </li>
-          <li>
-            <a data-cat='brand' href='#'>Brand</a>
-          </li>
-          <li>
-            <a data-cat='development' href='#'>Development</a>
-          </li>
-          <li>
-            <a data-cat='print' href='#'>Print</a>
-          </li>
-        </ul>
-      </div>
--->
+
       <ul class='gallery large-block-grid-4 medium-block-grid-3 small-block-grid-2 seperated'>
         {% assign sorted = site.projects | sort: 'date' | reverse %}
         {% for project in sorted %}
           <li class='{{project.category}} grid-item'>
             <a href='{{project.url}}'>
-              <img alt="" src="{{site.url}}/assets/images/{{project.url}}{{project.thumbnail}}" />
+              <img alt="{{project.title}} Thumbnail" src="assets/images/{{project.url}}{{project.thumbnail}}" />
               <div class='overlay'>
                 <div class='thumb-info'>
                   <h3>{{project.title}}</h3>
