@@ -1,0 +1,9 @@
+version: '3'
+
+services:
+  jekyll:
+    image: jekyll/jekyll:latest
+    command: jekyll build --trace --watch
+    volumes:
+      - ./:/srv/jekyll
+      - ./_site:/srv/jekyll/_site

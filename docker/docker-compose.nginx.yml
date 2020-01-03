@@ -1,0 +1,22 @@
+version: '3'
+
+services:
+  jekyll:
+    image: jekyll/jekyll:latest
+    container_name: barrythrew-com-jekyll
+    command: jekyll build --watch
+    volumes:
+      - .:/srv/jekyll
+
+  barrythrew-com:
+    restart: always
+    image: nginx:alpine
+    container_name: barrythrew-com-nginx
+    ports:
+      - "80:80"
+      - "443:443"
+    environment:
+      - VIRTUAL_HOST=barrythrew.com
+    volumes:
+      - ./_site:/usr/share/nginx/html
+      - ./nginx.conf:/etc/nginx/nginx.conf

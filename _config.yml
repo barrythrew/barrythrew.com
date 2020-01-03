@@ -16,6 +16,10 @@ linkedin_username: barrythrew
 
 permalink: pretty
 
+exclude: 
+  - docker
+  - docker-compose.yml
+  - nginx.conf
 # Build settings
 markdown: kramdown
 
