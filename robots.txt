@@ -1,2 +1,4 @@
 User-agent: *
-Disallow: /
+Disallow: /blog
+Disallow: about.old
+Disallow: /assets

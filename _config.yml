@@ -1,12 +1,12 @@
 # Site settings
-title: "Barry Threw | art technology"
+title: "Barry Threw"
 email: me@barrythrew.com
 description: > # this means to ignore newlines until "baseurl:"
-    Barry Threw is a curator, technologist, designer, cultural producer & strategist 
-    working across digital art, built environments, experiential & immersive media, 
+    Barry Threw is sometimes a curator, technologist, designer, cultural producer & strategist. 
+    He works across digital art, built environments, experiential & immersive media, 
     architectural projection mapping, and technology platforms.
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://barrythrew.com" # the base hostname & protocol for your site
+url: "https://barrythrew.com" # the base hostname & protocol for your site
 
 instagram_username: barrythrew
 facebook_username: barrythrew
@@ -20,6 +20,7 @@ exclude:
   - docker
   - docker-compose.yml
   - nginx.conf
+
 # Build settings
 markdown: kramdown
 
