@@ -1,5 +1,5 @@
 ---
-title: Shiekh Zayed Grand Mosque 
+title: Sheikh Zayed Grand Mosque 
 date: 2011-12-12
 thumbnail: thumbnail.png
 link_to: portfolio-item
