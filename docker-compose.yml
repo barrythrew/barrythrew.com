@@ -23,7 +23,6 @@ services:
       - EMAIL=me@barrythrew.com
     volumes:
       - ./_site:/config/www
-      - ./config:/config
     ports:
       - 443:443
       - 80:80
