@@ -9,7 +9,7 @@ services:
       - .:/srv/jekyll
 
   barrythrew-com-nginx:
-    image: linuxserver/letsencrypt
+    image: linuxserver/swag
     container_name: barrythrew-com-nginx
     cap_add:
       - NET_ADMIN
