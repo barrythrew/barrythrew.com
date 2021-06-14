@@ -1,13 +1,6 @@
 version: '3'
 
 services:
-  barrythrew-com-jekyll:
-    image: jekyll/jekyll:latest
-    container_name: barrythrew-com-jekyll
-    command: jekyll build --watch
-    volumes:
-      - .:/srv/jekyll
-
   barrythrew-com-nginx:
     image: linuxserver/swag
     container_name: barrythrew-com-nginx
@@ -21,11 +14,20 @@ services:
       - SUBDOMAINS=www
       - VALIDATION=http
       - EMAIL=me@barrythrew.com
+      - STAGING=false
+      - CERTPROVIDER=zerossl
     volumes:
       - ./_site:/config/www
     ports:
       - 443:443
       - 80:80
     restart: unless-stopped
+
+  barrythrew-com-jekyll:
+    image: jekyll/jekyll:latest
+    container_name: barrythrew-com-jekyll
+    command: jekyll build --watch
+    volumes:
+      - .:/srv/jekyll
     depends_on:
-      - barrythrew-com-jekyll
+      - barrythrew-com-nginx
