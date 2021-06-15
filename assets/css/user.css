@@ -91,13 +91,16 @@ div .social-icons a:hover {
 }
 
 .slides {
-  /* width: 720px;
+  /* 
+  width: 720px;
   height: 480px;
   */
 }
 
 .modBoxedSlider {
+  /*
   height: 480px;
+  */
 }
 
 .contentblock {
