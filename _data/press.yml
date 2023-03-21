@@ -22,7 +22,13 @@
 - title: Top 10 Products from Winter NAMM 2009
   link: http://mixonline.com/mixline/winter_namm_report_1002/index1.html
   source: Mix Magazine
-  date: 2009-02
+  date: 2009-02- title: "Kris Bowers: Launching a New Visual Experience"
+  source: "SFJAZZ: On The Corner"
+  link: https://www.sfjazz.org/onthecorner/kris-bowers-visual-experience/
+  date: 2021-09
+  language: en
+  project: "SFJAZZ"
+  selected: no
   project: 2009-09-13-k-bow
   selected: no
 
@@ -598,4 +604,20 @@
   link: https://hyperallergic.com/99205/art-tech-and-gentrification-in-san-francisco
   language: en
   project: "Artup"
-  selected: no  
+  selected: no
+
+- title: "Kris Bowers: Launching a New Visual Experience"
+  source: "SFJAZZ: On The Corner"
+  link: https://www.sfjazz.org/onthecorner/kris-bowers-visual-experience/
+  date: 2021-09
+  language: en
+  project: "SFJAZZ"
+  selected: no
+
+- title: "Gray Area Foundation: Barry Threw"
+  source: "smART Magazine"
+  link: https://www.smartbylighthouse.com/grayareafoundationforthearts
+  date: 2021-09
+  language: en
+  selected: no
+
