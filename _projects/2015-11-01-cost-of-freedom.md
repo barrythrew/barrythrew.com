@@ -26,7 +26,6 @@ collaborators:
   - Neil Stuber – MISSINGBASSEL Illustration
   - Contributors
   - Christopher Adams
-  - Sabrina Banes
   - The Big Conversation Space (Niki Korth & Clémence de Montgolfier)
   - Tim Boykett
   - Lorna Campbell
