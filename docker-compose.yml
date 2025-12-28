@@ -1,5 +1,3 @@
-version: '3'
-
 services:
   barrythrew-com-nginx:
     image: linuxserver/swag

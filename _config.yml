@@ -24,8 +24,8 @@ exclude:
 # Build settings
 markdown: kramdown
 
-paginate: 4
-paginate_path: "blog/page:num"
+#paginate: 4
+#paginate_path: "blog/page:num"
 
 collections:
   projects:
