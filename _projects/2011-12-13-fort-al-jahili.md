@@ -34,6 +34,3 @@ This historical show opens with a powerful symbol of pride and strength: the Fal
 The show concludes with a quote of Sheikh Zayed of peace and unity: the tribes of the UAE coming together, the founding fathers, His Highness Sheikh Khalifa bin Zayed Al Nahyan and current leaders of the nation. With the backdrop of history, we see the flag waving in the wind in star filled night sky over Al Ain.
 
 
-**Mention:**
-
-  * [Gulf News](http://gulfnews.com/news/gulf/uae/general/illumination-show-traces-country-s-development-1.941082)

@@ -22,7 +22,7 @@ collaborators:
   - Naut Humon – Director of Operations
   - Tana Sprague – Associate Director
   - Masako Tanaka – Visual Coordinator
-  - Bryan Gibbs – Chief Audio Engineer, RML
+  - Chris Musgrave – Installation Designer
   - Vance Galloway – System Design
   - Aloveiz Heredic – Audio Engineer
   - Amanda Aydelott – Production and Coordination

@@ -30,10 +30,6 @@ In the program notes Cabrillo Festival of Contemporary Music, Bates writes:
 > 
 >Soaring in the strings over the last breaths of the blues tune, this long-lined melody moves us into “Southern Midnight.” The three distinct textures from the opening return, each brought to life by a phrase of the melody. At the close of this lyrical section, we hover in that strange space between night and day, when only the singing of the first bird alerts us to the approaching dawn. But it is a hot, Southern dawn, both sparkling and heavy, with the air made rusty again by the buzzing cicadas (popularly called locusts). And on this note, this homage—partly to the almost mythical place so far from where I now live, partly to the very real friend who made it possible—finally brings itself to an end.
 
-**Mention:**
-
-  * [San Francisco Classical Voice &#8220;Brilliance in the Air&#8221;](http://www.sfcv.org/content/brilliance-air)
-
 **Performances:**
 
   * Winston-Salem Symphony under Robert Moody

@@ -6,87 +6,30 @@ section_id: portfolio
 <div class='full'>
   <div class='row'>
       <ul class='large-block-grid-2 medium-block-grid-2 small-block-grid-2 separated press-video-grid'>
-          <li class='grid-item'>
-            <div class="vidContainer">
-              <iframe src="https://player.vimeo.com/video/146124282" frameborder="0" class="vidFrame" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-            </div>
-            <p><a href="https://vimeo.com/146124282">ProtoCultural Paris 2015 - New Palmyra</a> from <a href="https://vimeo.com/thebigconversationspace">The Big Conversation Space</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-          </li>
-          <li class='grid-item'>
-            <div class="vidContainer">
-              <iframe class="vidFrame" src="https://www.youtube.com/embed/FdltBJnCU60?rel=0" frameborder="0" allow="encrypted-media" allowfullscreen></iframe>
-            </div>
-          </li>
-          <li class='grid-item'>
-            <div class="vidContainer">
-              <iframe src="https://player.vimeo.com/video/83632534" class="vidFrame" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-            </div>
-            <p><a href="https://vimeo.com/83632534">Derivative - Markus Heckmann &amp; Barry Threw at Resonate 2013</a> from <a href="https://vimeo.com/resonateio">Resonate Festival</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-          </li>
-          <li class='grid-item'>
-            <div class="vidContainer">
-               <iframe class="vidFrame" src="https://www.youtube.com/embed/z8t4dWg_O5Y?rel=0" frameborder="0" allow=" encrypted-media" allowfullscreen></iframe>
-            </div>
-          </li>
-      
-          <li class='grid-item'>
-            <div class="vidContainer">
-               <iframe class="vidFrame" src="https://www.youtube.com/embed/K_LXaqo127Q?rel=0" frameborder="0" allow=" encrypted-media" allowfullscreen></iframe>
-            </div>
-          </li>
-
-          <li class='grid-item'>
-            <div class="vidContainer">
-               <iframe class="vidFrame" src="https://player.vimeo.com/video/5235085" frameborder="0" allow=" encrypted-media" allowfullscreen></iframe>
-            </div>
-            <p><a href="https://vimeo.com/5235085">Barry Threw demos the K-Bow at Maker Faire</a> from <a href="https://vimeo.com/yannseznec">Yann Seznec</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-          </li>
-          
-          <li class='grid-item'>
-            <div class="vidContainer">
-               <iframe class="vidFrame" src="https://www.youtube.com/embed/Kbtm2nQhr8U" frameborder="0" allow=" encrypted-media" allowfullscreen></iframe>
-            </div>
-          </li>
-
-          <li class='grid-item'>
-            <div class="vidContainer">
-               <iframe class="vidFrame" src="https://www.youtube.com/embed/wc_dE2rfxDY?rel=0"  frameborder="0" allow=" encrypted-media" allowfullscreen></iframe>
-            </div>
-          </li>
-
-          <li class='grid-item'>
-            <div class="vidContainer">
-               <iframe class="vidFrame" src="https://www.youtube.com/embed/kxCyhKj969Q" frameborder="0" allow=" encrypted-media" allowfullscreen></iframe>
-            </div>
-          </li>
-
-          <li class='grid-item'>
-            <div class="vidContainer">
-               <iframe class="vidFrame" src="https://player.vimeo.com/video/26337139" frameborder="0" allow=" encrypted-media" allowfullscreen></iframe>
-            </div>
-          </li>
-
-          <li class='grid-item'>
-            <div class="vidContainer">
-               <iframe class="vidFrame" src="https://www.youtube.com/embed/46eBHs2dhxc" frameborder="0" allow=" encrypted-media" allowfullscreen></iframe>
-            </div>
-          </li>
-
-          <li class='grid-item'>
-            <div class="vidContainer">
-               <iframe class="vidFrame" src="https://player.vimeo.com/video/223784051" frameborder="0" allow=" encrypted-media" allowfullscreen></iframe>
-            </div>
-            <p><a href="https://vimeo.com/223784051">WEIRD REALITY: Head-Mounted Art &amp;&amp; Code :: #NEWPALMYRA by Barry Threw</a> from <a href="https://vimeo.com/sfci">STUDIO for Creative Inquiry</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
-          </li>
+          {% include videoPlayer.html link="https://player.vimeo.com/video/146124282" %}
+          {% include videoPlayer.html link="https://www.youtube.com/embed/FdltBJnCU60" %}
+          {% include videoPlayer.html link="https://player.vimeo.com/video/83632534" %}
+          {% include videoPlayer.html link="https://www.youtube.com/embed/z8t4dWg_O5Y" %}
+          {% include videoPlayer.html link="https://www.youtube.com/embed/K_LXaqo127Q" %}
+          {% include videoPlayer.html link="https://player.vimeo.com/video/5235085" %}
+          {% include videoPlayer.html link="https://www.youtube.com/embed/Kbtm2nQhr8U" %}
+          {% include videoPlayer.html link="https://www.youtube.com/embed/wc_dE2rfxDY" %}
+          {% include videoPlayer.html link="https://www.youtube.com/embed/kxCyhKj969Q" %}
+          {% include videoPlayer.html link="https://player.vimeo.com/video/26337139" %}
+          {% include videoPlayer.html link="https://www.youtube.com/embed/46eBHs2dhxc" %}
+          {% include videoPlayer.html link="https://player.vimeo.com/video/223784051" %}
       </ul>
 
-      <ul>
-      {% for item in site.data.press %}
+      <ul class="press_list">
+      {% assign press_items_sorted = site.data.press | sort: 'date' | reverse %}
+      {% for item in press_items_sorted %}
         <li>
-          <a href="{{ item.link }}">
-            {{ item.date }} {{ item.title }}
-          </a>
-        </li>
+          <time>{{ item.date | date: "%B %d, %Y" }}</time>
+          &nbsp;&mdash;&nbsp;
+          <a href="{{ item.link }}">{{ item.title }}</a>
+          &nbsp;&mdash;&nbsp;
+          {{ item.source }}
+      </li>
       {% endfor %}
       </ul>
 

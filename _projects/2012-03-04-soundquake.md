@@ -33,8 +33,3 @@ The piece uses WebGL (ThreeJS), the Web Audio API, NodeJS (Express), Google Fusi
 **Installations:**
 * March 2012 - Creator's Project, Fort Mason, San Francisco
 * May 2012 - Nightlife, California Academy of Sciences
-
-**Mention:**
-* [3D Earthquake Data Visualizer soundQuake, Winner Of Our San Francisco Hackathon - Creators Project](https://creators.vice.com/en_us/article/nzdyek/3d-earthquake-data-visualizer-isoundquakei-winner-of-our-san-francisco-hackathon)
-* [8 Disaster Visualization Art Projects That Put Frankenstorm Sandy Into Perspective - Creators Project](https://creators.vice.com/en_au/article/3dpwyy/8-disaster-visualization-art-projects-that-put-frankenstorm-sandy-into-perspective)
-* [Creators Project festival a successful experiment at Fort Mason - Golden Gate Express](http://goldengatexpress.org/2012/03/21/creators-project/)

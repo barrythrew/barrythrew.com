@@ -68,10 +68,3 @@ _**Emergence**_ takes people on a dynamic visual journey, evoking a sense of wo
 Documented in ultra high definition video, non-computer generated real-life visualizations of compelling natural subjects are projection mapped back on the surface of the building, creating the illusion of being contained within its structure.
 
 Unique, non-digital sounds, arranged and composed by Obscura musicians, converge with their architectural projections to form extraordinary harmonics, elevating the experience to a new level.
-
-**Mention:**
-
-  * [The Creators Project](http://thecreatorsproject.vice.com/blog/obscura-digitals-massive-projection-series-turns-san-franciscos-exploratorium-into-a-technicolor-canvas)
-  * [Motionographer](http://motionographer.com/2013/04/09/obscura-digital-emergence-at-the-exploratorium/)
-  * [Wired](http://www.wired.com/beyond_the_beyond/2013/04/obscura-digitals-massive-projection-series-turns-san-franciscos-exploratorium-into-a-technicolor-canvas/)
-  * [Gizmodo](http://gizmodo.com/5994274/exploratorium-reborn-inside-san-franciscos-new-shrine-to-innovation)

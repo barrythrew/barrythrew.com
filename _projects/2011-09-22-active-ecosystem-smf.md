@@ -42,8 +42,3 @@ Conceptually, _Active Ecosystem (SMF)_ continues the airport&#8217;s theme of 
 Each of the different scenes in _Active Ecosystem (SMF)_ contains multiple responses to the elevator. For example, in the &#8220;river&#8221; scene, passengers&#8217; pushing a call button on any of the landings starts a series of ripples in the river. When the elevator moves to a new floor, a school of fish follow it. A large, curious fish investigates the elevator wherever it stops. If no one rides the elevator for an extended period of time, an abstract drawing of the river starts to flow. Similarly, in the &#8220;tree&#8221; scene, falling leaves are blown in different directions as the elevator rises and falls.
 
 In each scene, the elements also change based on time of day and the seasons. The color palette changes from dawn to noon to dusk, mimicking the outside environment. Different local fish, such as king salmon or rainbow trout, swim in the river during the months when they are spawning. Falling autumn leaves are replaced by drifting pollen in the spring.
-
-**Mention:**
-
-  * [Sacramento&#8217;s Stunning New Airtport Art](http://www.squarecylinder.com/2010/03/sacramentos-stunning-new-airport-art/)
-  * [Sacramento Airport Arts Commission](http://sacmetroarts.org/CamilleUtterback.html)

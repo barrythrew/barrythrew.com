@@ -46,7 +46,10 @@ section_id: portfolio
     <div class='large-8 columns'>
       <div class='mod modBoxedSlider'>
         {% if page.herovimeoid %}
-          <span itemprop="video">{% include vimeoPlayer.html id=page.herovimeoid %}</span>
+          <ul>
+            {% assign video_link = "https://player.vimeo.com/video/" | append: page.herovimeoid %}
+            <span itemprop="video">{% include videoPlayer.html link=video_link %}</span>
+          </ul>
         {% endif %}
 
         <div class='slides'>
@@ -60,29 +63,48 @@ section_id: portfolio
         </div>
       </div>
     </div>
-    
+  </div>
+  <div class='two spacing'></div>  
+
+  {% if page.videos %}
+  <div class='row'>
+      <ul class='large-block-grid-2 medium-block-grid-2 small-block-grid-2 separated press-video-grid'>
+            {% for video in page.videos %}
+                {% capture videoid %}{{ video }}{% endcapture %}
+                {% assign video_link = "https://player.vimeo.com/video/" | append: videoid %}
+                {% include videoPlayer.html link=video_link %}
+            {% endfor %}
+      </ul>
+      <div class='two spacing'></div>  
+  </div>
+  {% endif %}
+  
+  <div class='row'>
+    <div class='contentblock'>
+      {{content}}
+    </div>
   </div>
 
   <div class='row'>
-
-    {% if page.videos %}
-      <ul class='large-block-grid-2 medium-block-grid-2 small-block-grid-2 separated press-video-grid'>
-            {% for video in page.videos %}
-            <li class='grid-item'>
-              <div itemprop="video" class="vidContainer">
-                {% capture videoid %}{{ video }}{% endcapture %}
-                {% include vimeoPlayer.html id=videoid %}
-              </div>
-            </li>
-            {% endfor %}
-      </ul>
-      <div class='two spacing'></div>
-    {% endif %}
-
-    <div class='two spacing'></div>
-    
     <div class='contentblock'>
-      {{content}}
+      {% assign current_page = page.name | remove: ".md" %}
+      {% assign press_items = site.data.press | where: "project", current_page %}
+
+      {% if press_items.size > 0 %}
+        {% assign press_items_sorted = press_items | sort: 'date' | reverse %}
+
+        <ul class="press-list info">
+          {% for item in press_items_sorted %}
+            <li>
+              <time>{{ item.date | date: "%B %d, %Y" }}</time>
+              &nbsp;&mdash;&nbsp;
+              <a href="{{ item.link }}">{{ item.title }}</a>
+              &nbsp;&mdash;&nbsp;
+              {{ item.source }}
+            </li>
+          {% endfor %}
+        </ul>
+      {% endif %}
     </div>
   </div>
   <div class='four spacing'></div>

@@ -24,10 +24,3 @@ collaborators:
 The bill for this &#8217;11-&#8217;12 season opener included Copland’s 1938 _Billy the Kid_ Ballet Suite, Lang Lang on the piano for _Liszt Piano Concerto No. 1_ in E-flat major, Itzhak Perlman’s performance of his famed _Mendelssohn’s Violin Concerto in E minor_ Opus 64, Britten’s _The Young Person’s Guide to the Orchestra_ Opus 34. 
 
 Obscura visuals lined the walls during the pre-performance audience seating and intermission. But the real spectacle of the night was our accompaniment to the encore of John Adams&#8217; _Short Ride on a Fast Machine_. This piece consisted of a fly-through of San Francisco starting from satellite views down to a tour of its most famous landmarks. Shots of driving across the Golden Gate and Bay bridges, and of abstract driving scenes, were timed along with the orchestral performance, creating a stunning tribute to the orchestra and composer to whom they have been so closely linked.
-
-
-**Mention:**
-
-* [San Francisco Examiner](http://www.sfexaminer.com/entertainment/music/2011/09/san-francisco-symphony-celebrates-100-years-history#ixzz1YTji27Qq) 
-
-* [SF Gate](http://articles.sfgate.com/2011-09-09/entertainment/30133697_1_gala-tickets-symphonix-dinner-san-francisco-symphony).

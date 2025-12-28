@@ -1,623 +1,967 @@
-- title: Plunging Into the Vortex
-  link: https://www.mixonline.com/technology/plunging-vortex-383762
+- link: https://www.mixonline.com/technology/plunging-vortex-383762
+  title: Plunging Into the Vortex
+  author: Alexander Brandon
+  date: 2007-07-01
+  source: Mix
   project: 2006-01-01-immersive-media-research
-  source: Mix Magazine
-  date: 2007-07
-  selected: no
 
-- title: An Interview with Keith McMillen
-  link: http://cycling74.com/story/2009/3/23/132754/554
+- link: https://cycling74.com/articles/an-interview-with-keith-mcmillen
+  title: An Interview with Keith McMillen
+  author: Andrew Benson
+  date: 2009-03-23
+  source: Cycling '74
   project: 2009-09-13-k-bow
-  source: Cycling &#8217;74
-  date: 2009-09
-  selected: no
 
-- title: Recombinant Media Labs Teams up with Gray Area for Downtown Arts Corridor
-  link: http://blogs.sfweekly.com/shookdown/2009/02/recombinant_media_labs_teams_u.php
-  project: RML
-  source: SFWeekly 
-  date: 2009-02
-  selected: no
+- link: https://web.archive.org/web/20090227013245/http://blogs.sfweekly.com/shookdown/2009/02/recombinant_media_labs_teams_u.php
+  title: Recombinant Media Labs Teams up with Gray Area for Downtown Arts Corridor
+  author: Jennifer Maerz
+  date: 2009-02-19
+  source: SF Weekly
+  project: 2006-10-01-recombinant-media-labs
 
-- title: Top 10 Products from Winter NAMM 2009
-  link: http://mixonline.com/mixline/winter_namm_report_1002/index1.html
-  source: Mix Magazine
-  date: 2009-02- title: "Kris Bowers: Launching a New Visual Experience"
-  source: "SFJAZZ: On The Corner"
-  link: https://www.sfjazz.org/onthecorner/kris-bowers-visual-experience/
-  date: 2021-09
-  language: en
-  project: "SFJAZZ"
-  selected: no
+- link: https://web.archive.org/web/20091120230845/http://mixonline.com/mixline/winter_namm_report_1002/index1.html
+  title: Top 10 Products from Winter NAMM 2009
+  author: null
+  source: Mix Online
+  date: 2009-02-10
   project: 2009-09-13-k-bow
-  selected: no
 
-- title: Electronic Musician TV
-  link: http://emusician.com/ms/namm/video/keith_mcmillan_k_bow/
-  source: Electronic Musician 
-  date: 2009-02
-  project: 2009-09-13-k-bow
-  selected: no
-
-- title: K-Bow Instigates Symphonic Class Warfare
-  link: http://www.gearwire.com/keithmcmillen-kbow.html
+- link: https://web.archive.org/web/20091121032956/http://www.gearwire.com/keithmcmillen-kbow.html
+  title: 'Keith McMillen Instruments K-Bow: Get A F*%@&#g Bluetooth For Your Violin Bow, Man'
+  author: Owen O'Malley
+  date: 2008-11-06
   source: Gearwire
-  date: 2008-11
   project: 2009-09-13-k-bow
-  selected: no
 
-- title: Keith McMillen Unveils String Instrument Interfaces
-  link: http://www.electronista.com/articles/08/11/07/mcmillen.string.interfaces/
-  source: Electronista
-  date: 2008-11
-  project: StringPort
-  selected: no
+- link: https://web.archive.org/web/20160710073551/http://www.macnn.com/articles/08/11/07/mcmillen.string.interfaces/
+  title: Keith McMillen unveils string instrument interfaces
+  author: null
+  date: 2006-11-07
+  source: MacNN
+  project: 2009-09-13-k-bow
 
-- title: Berklee College of Music Alumni Profile
-  link: http://www.berklee.edu/profiles/alumni/threw.html
+- link: https://college.berklee.edu/news/creating-beat-different-drummer
+  title: 'Alumni Profile: Creating the Beat of a Different Drummer'
+  author: Danielle Dreilinger
+  date: 2008-02-26
   source: Berklee College of Music
-  date: 2008-02
-  project: General
-  selected: no
 
-- title: Not Your Grandfathers Big Bands
-  link: http://eugeneweekly.com/2008/07/31/music2.html
+- link: https://web.archive.org/web/20100915135613/http://eugeneweekly.com/2008/07/31/music2.html
+  title: Not Your Grandfather’s Big Bands
+  author: Vanessa Salvia
+  date: 2008-07-31
   source: Eugene Weekly
-  date: 2007-07
-  project: Music
-  selected: no
 
-- title: Asphodel and Recombinant Media Labs
-  link: http://www.xlr8r.com/news/2007/05/xlr8r-tv-episode-10-asphodel-and
-  source: XLR8R TV
-  date: 2007-05
-  project: RML
-  selected: no  
-
-- title: TrioMetrik on North Bay Reporter
-  link: http://www.beamfoundation.org/media/BEAM-NBR-070312.mov
-  source: North Bay Reporter
-  date: 2007-03
-  project: TrioMetrik
-  selected: no
-
-- title: Keith McMillen on KRON
-  link: http://www.beamfoundation.org/media/BEAM-KRON-070304.mov
-  source: KRON
-  date: 2007-03
-  project: TrioMetrik
-  selected: no
-
-- title: Keith McMillen on Comcast Local Edition
-  link: http://www.beamfoundation.org/media/BEAM-Comcast-070110.mov
-  source: Comcast Local Edition
-  date: 2007-02
-  project: TrioMetrik
-  selected: no
-
-- title: 360-Degree Art for All Senses
-  link: http://www.sfgate.com/cgi-bin/article.cgi?f=/c/a/2006/10/22/PKGQCLQGUC1.DTL&hw=Recombinant%2BMedia%2BLabs&sn=001&sc=1000
+- link: https://web.archive.org/web/20100915030257/http://articles.sfgate.com/2006-10-22/entertainment/17317038_1_video-screens-sound-space
+  title: 360-degree art for all senses
+  author: J Poet
+  date: 2006-10-22
   source: SF Gate
-  date: 2006-10
-  project: RML
-  selected: no  
+  project: 2006-10-01-recombinant-media-labs
+
+- link: https://web.archive.org/web/20090129101352/https://www.mixonline.com/design/profiles/audio_recombinant_media_labs/
+  title: Recombinant Media Labs
+  author: Sarah Jones
+  date: 2006-10-01
+  source: Mix Online
+  project: 2006-10-01-recombinant-media-labs
 
-- title: Pushing Boundaries of Audio and Visual Surround
-  link: http://mixonline.com/design/profiles/audio_recombinant_media_labs/
-  source: Mix Magazine
-  date: 2006-10
-  project: RML
-  selected: no  
-
-- title: The Outer and Inner Limits of Sight and Sound Explored by Naut Humon and Recombinant Media Labs
-  link: http://www.sf360.org/features/the-outer-and-inner-limits-of-sight-and-sound-explored-by-naut-humon-and-recombinant-media-labs
-  source: SF 360
-  date: 2006-08
-  project: RML
-  selected: no  
-
-- title: "How One Syrian Fought to the Death for a Free Internet"
-  source: "Wired"
-  link: https://www.wired.com/story/how-one-syrian-fought-to-the-death-for-a-free-internet/
-  language: en
-  project: 2015-10-01-newpalmyra
-  selected: no  
-
-- title: "Bassel Khartabil's Story Proves Online Activism is Still Powerful"
-  source: "Wired"
-  link: https://www.wired.com/story/free-bassel-essay/
-  language: en
-  project: 2015-10-01-newpalmyra
-  selected: no  
-
-- title: "ISIS recaptures Palmyra: A fresh assault on heritage sites?"
-  source: "Christian Science Monitor"
-  link: http://www.csmonitor.com/World/Middle-East/2016/1210/ISIS-recaptures-Palmyra-A-fresh-assault-on-heritage-sites-video
-  language: en
-  project: 2015-10-01-newpalmyra
-  selected: no  
-
-- title: "Al Arabiya News Bulletin / Special on Bassel Khartabil and #newpalmyra Project"
-  link: https://www.youtube.com/watch?v=6Q99ymWV2BA
-
-- title: "Bassel Khartabil, prisonnier syrien qui vit et risque de mourir pour Internet"
-  source: "slate.fr"
-  link: http://m.slate.fr/story/107927/bassel-khartabil-prisonnier-syrien-internet
-  language: fr
-  project: 2015-10-01-newpalmyra
-  selected: no  
-
-- title: "On the death of Bassel Khartabil"
-  source: "Joi Ito, MIT Media Lab"
-  link: https://www.media.mit.edu/posts/on-the-death-of-bassel-khartabil/
-  language: en
-  project: 2015-10-01-newpalmyra
-  selected: no  
-
-- title: "Bassel Khartabil: fears for man who brought open internet to the Arab world"
-  source: "The Guardian"
-  link: http://www.theguardian.com/technology/2015/dec/11/bassel-khartabil-fears-for-man-who-brought-open-internet-to-the-arab-world
-  language: en
-  project: 2015-10-01-newpalmyra
-  selected: no  
-
-- title: "Bassel Khartabil: Missing Syrian-Palestinian 'executed'"
-  source: "Al Jazeera"
-  link: http://www.aljazeera.com/news/2017/08/bassel-khartabil-missing-syrian-palestinian-executed-170802100920059.html
-  language: en
-  project: 2015-10-01-newpalmyra
-  selected: no  
-
-- title: "Palmyra's Ancient Arch, Destroyed By ISIS, To Rise Again In London"
-  source: "NPR"
-  link: http://www.npr.org/sections/parallels/2016/04/18/474686269/palmyras-ancient-arch-destroyed-by-isis-to-rise-again-in-london
-  language: en
-  project: 2015-10-01-newpalmyra
-  selected: no  
-
-- title: "You can now upload 3D models to Wikimedia Commons"
-  source: "Wikimedia"
-  link: https://blog.wikimedia.org/2018/02/20/three-dimensional-models/
-  language: en
-  project: 2015-10-01-newpalmyra
-  selected: no  
-
-- title: "Director Barry Threw at CyArk Summit 2015"
-  link: https://www.youtube.com/watch?v=kxCyhKj969Q
-  language: en
+- link: https://www.wired.com/story/how-one-syrian-fought-to-the-death-for-a-free-internet/
+  title: How One Syrian Fought to the Death for a Free Internet
+  author: Alice Su
+  date: 2017-09-27
+  source: Wired
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "Free 3D Printable of the Week: #NEWPALMYRA"
-  source: "3D Printing Industry"
-  link: http://3dprintingindustry.com/2015/10/23/free-3d-printable-of-the-week-newpalmyra/
-  language: en
+- link: https://www.wired.com/story/free-bassel-essay/
+  title: Bassel Khartabil's Story Proves Online Activism Is Still Powerful
+  author: Eric Steuer
+  date: 2017-10-05
+  source: Wired
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "Jon Phillips on #freebassel Campaign #newpalmyra #protocultural and events"
-  link: https://www.youtube.com/watch?v=EZkLb01JCiw
-  language: en
+- link: http://www.csmonitor.com/World/Middle-East/2016/1210/ISIS-recaptures-Palmyra-A-fresh-assault-on-heritage-sites-video
+  title: 'ISIS recaptures Palmyra: A fresh assault on heritage sites'
+  author: David Iaconangelo
+  date: 2016-12-10
+  source: Christian Science Monitor
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "Technology and Cultural Heritage Preservation"
-  source: "Patty Gerstenblith"
-  link: http://displayatyourownrisk.org/gerstenblith/
-  language: en
+- link: http://m.slate.fr/story/107927/bassel-khartabil-prisonnier-syrien-internet
+  title: Bassel Khartabil, prisonnier syrien d'Internet
+  author: Stéphanie Vidal
+  date: 2015-10-09
+  source: Slate France
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "When All Roads Led to Palmyra"
-  source: "History Today"
-  link: http://www.historytoday.com/raoul-mclaughlin/when-all-roads-led-palmyra
-  language: en
+- link: https://www.media.mit.edu/posts/on-the-death-of-bassel-khartabil/
+  title: On the death of Bassel Khartabil
+  author: Joi Ito
+  date: 2017-08-02
+  source: MIT
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "Wikimedians pack their bags and head to Montreal for 13th annual Wikimania"
-  source: "Wikimedia"
-  link: https://blog.wikimedia.org/2017/08/11/wikimania-2017-release/
-  language: en
+- link: http://www.theguardian.com/technology/2015/dec/11/bassel-khartabil-fears-for-man-who-brought-open-internet-to-the-arab-world
+  title: 'Bassel Khartabil: fears for man who brought open internet to the Arab world'
+  author: Zoë Corbyn
+  date: 2015-12-11
+  source: The Guardian
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "Can we 3D re-print the history we’ve destroyed?"
-  source: "Quartz"
-  link: http://qz.com/656151/can-we-3d-re-print-the-history-weve-destroyed/
-  language: en
+- link: http://www.aljazeera.com/news/2017/08/bassel-khartabil-missing-syrian-palestinian-executed-170802100920059.html
+  title: 'Bassel Khartabil: Missing Syrian-Palestinian executed'
+  author: Al Jazeera
+  date: 2017-08-02
+  source: Al Jazeera
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "'They Can't Stop Us' — World Mourns Execution of Palestinian-Syrian Activist Bassel Khartabil Safadi by the Assad Regime"
-  source: "Global Voices"
-  link: https://globalvoices.org/2017/08/06/they-cant-stop-us-world-mourns-execution-of-palestinian-syrian-activist-bassel-khartabil-safadi-by-the-assad-regime/amp/
-  language: en
-  project: 2015-10-01-newpalmyra
-  selected: no  
-
-- title: "Report: Syrian-Palestinian Open Internet Advocate Bassel Khartabil Has Been Executed"
-  source: "The Fader"
-  link: http://www.thefader.com/2017/08/01/creative-commons-bassel-khartabil-death
-  language: en
-  project: 2015-10-01-newpalmyra
-  selected: no  
-
-- title: "Statement on the death of CC friend and colleague Bassel Khartabil"
-  source: "Creative Commons"
-  link: https://creativecommons.org/2017/08/01/bassel/
-  language: en
-  project: 2015-10-01-newpalmyra
-  selected: no  
-
-- title: "Help Fight ISIS by Rebuilding Palmyra in 3D"
-  source: "The Creators Project"
-  link: http://thecreatorsproject.vice.com/blog/help-fight-isis-by-rebuilding-palmyra-in-3d
-  language: en
-  project: 2015-10-01-newpalmyra
-  selected: no  
-
-- title: "Should we 3D print a new Palmyra?"
-  source: "The Conversation"
-  link: http://theconversation.com/should-we-3d-print-a-new-palmyra-57014 
-  language: en
-  project: 2015-10-01-newpalmyra
-  selected: no  
-
-- title: "A Jailed Activist’s 3-D Models Could Save Syria’s History From ISIS"
-  source: "WIRED"
-  link: http://www.wired.com/2015/10/jailed-activist-bassel-khartabil-3d-models-could-save-syrian-history-from-isis/#slide-4
-  language: en
-  project: 2015-10-01-newpalmyra
-  selected: no  
+- link: http://www.npr.org/sections/parallels/2016/04/18/474686269/palmyras-ancient-arch-destroyed-by-isis-to-rise-again-in-london
+  title: Palmyra's Ancient Arch, Destroyed By ISIS, To Rise Again In London
+  author: Deborah Amos
+  date: 2016-04-18
+  source: NPR
+  project: 2016-01-18-arch-print-sprint
 
-- title: "L’exécution en 2015 du Syrien Bassel Khartabil confirmée"
-  source: "Reporters Sans Frontieres"
-  link: https://rsf.org/fr/actualites/lexecution-en-2015-du-syrien-bassel-khartabil-confirmee
-  language: fr
-  project: 2015-10-01-newpalmyra
-  selected: no  
+- link: https://blog.wikimedia.org/2018/02/20/three-dimensional-models/
+  title: You can now upload 3D models to Wikimedia Commons
+  author: Ramsey Isler and Chris Koerner
+  date: 2018-02-20
+  source: Wikimedia Foundation
+  project: 2017-10-20-tetrapylon
 
-- title: "Resurrecting Palmyra's Tetrapylon with 3D printing"
-  link: https://www.youtube.com/watch?v=FdltBJnCU60
-  categories: [ video ]
+- link: https://3dprintingindustry.com/news/free-3d-printable-of-the-week-newpalmyra-60757/
+  title: 'Free 3D Printable of the Week: #NewPalmyra'
+  author: Michael Molitch-Hou
+  date: 2015-10-23
+  source: 3D Printing Industry
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "Reconstruir la ciudad de Palmira gracias a Internet"
-  link: https://www.youtube.com/watch?v=IkPv4dBimjk
-  categories: [ video ]
+- link: http://displayatyourownrisk.org/gerstenblith/
+  title: Technology and Cultural Heritage Preservation
+  author: Patty Gerstenblith
+  date: 2016-04-26
+  source: 'Display At Your Own Risk: An experimental exhibition of digital cultural heritage'
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "Reconstruir la ciudad de Palmira gracias a Internet"
-  source: "El Futuro"
-  link: http://one.abc.es/reconstruir-la-ciudad-de-palmira-gracias-internet/
-  language: es
+- link: http://www.historytoday.com/raoul-mclaughlin/when-all-roads-led-palmyra
+  title: When All Roads Led to Palmyra
+  author: Raoul McLaughlin
+  date: 2016-07-07
+  source: History Today
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "MIT Media Lab Is Helping to Digitally Reconstruct Syrian City Ravaged ISIS"
-  source: "Boston Magazine"
-  link: http://www.bostonmagazine.com/arts-entertainment/blog/2015/11/10/mit-media-lab-new-palmyra-project/
-  language: en
-  project: 2015-10-01-newpalmyra
-  selected: no  
+- link: https://blog.wikimedia.org/2017/08/11/wikimania-2017-release/
+  title: Wikimedians pack their bags and head to Montreal for 13th annual Wikimania
+  author: Wikimedia Foundation
+  date: 2017-08-11
+  source: Wikimedia Foundation
+  project: 2017-10-20-tetrapylon
 
-- title: "Bassel Khartabil: Missing Syrian-Palestinian 'Executed'"
-  source: "Malaysian Digest"
-  link: http://www.malaysiandigest.com/world/690564-bassel-khartabil-missing-syrian-palestinian-executed.html
-  language: en
+- link: http://qz.com/656151/can-we-3d-re-print-the-history-weve-destroyed/
+  title: Can we 3D re-print the history we've destroyed?
+  author: Emma Cunliffe
+  date: 2022-07-20
+  source: Quartz
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "Creative Commons launches Memorial Fund Grants and Fellowship in Memory of Bassel Khartabil"
-  source: "Creative Commons"
-  link: https://creativecommons.org/2018/02/07/bassel-post/
-  language: en
+- link: https://globalvoices.org/2017/08/06/they-cant-stop-us-world-mourns-execution-of-palestinian-syrian-activist-bassel-khartabil-safadi-by-the-assad-regime/amp/
+  title: '''They Can''t Stop Us'' — World Mourns Execution of Palestinian-Syrian Activist Bassel Khartabil Safadi by the Assad Regime'
+  author: Elia J. Ayoub
+  date: 2017-08-06
+  source: Global Voices
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "Bassel Khartabil, In Memoriam"
-  source: "Electronic Frontier Foundation"
-  link: https://www.eff.org/deeplinks/2017/08/bassel-khartabil-memoriam
-  language: en
+- link: http://www.thefader.com/2017/08/01/creative-commons-bassel-khartabil-death
+  title: Creative Commons announces death of Bassel Khartabil
+  author: Jordan Darville
+  date: 2017-08-01
+  source: The FADER
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "Syrian-Palestinian Online Activist Bassel Khartabil Confirmed Dead Years After Arrest in Syria"
-  source: "Haaretz"
-  link: http://www.haaretz.com/middle-east-news/syria/1.804792
-  language: en
+- link: https://creativecommons.org/2017/08/01/bassel/
+  title: Statement on the death of CC friend and colleague Bassel Khartabil
+  author: Ryan Merkley
+  date: 2017-08-01
+  source: Creative Commons
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "Bassel Khartabil, Syrian-Palestinian Online Activist, Executed by Syrian Government"
-  source: "Inverse Culture"
-  link: https://www.inverse.com/article/34981-freebassel-bassel-khartabil-execution-october-2015-syria
-  language: en
+- link: http://thecreatorsproject.vice.com/blog/help-fight-isis-by-rebuilding-palmyra-in-3d
+  title: Help Fight ISIS by Rebuilding Palmyra in 3D
+  author: Benoit Palop
+  wayback: https://web.archive.org/web/20151114011749/http://thecreatorsproject.vice.com/blog/help-fight-isis-by-rebuilding-palmyra-in-3d
+  date: 2015-11-10
+  source: The Creators Project
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "The Heroic Effort to Digitally Reconstruct Lost Monuments"
-  source: "Smithsonian Magazine"
-  link: http://www.smithsonianmag.com/history/heroic-effort-digitally-reconstruct-lost-monuments-180958098/ 
-  language: en
+- link: http://theconversation.com/should-we-3d-print-a-new-palmyra-57014
+  title: Should we 3D print a new Palmyra?
+  author: Emma Cunliffe
+  date: 2016-03-31
+  source: The Conversation
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "MIT Media Lab reaches out to jailed Syrian activist with research position in Center for Civic Media"
-  source: "Joi Ito"
-  link: http://joi.ito.com/weblog/2015/10/22/mit-media-lab-r.html
-  language: en
+- link: http://www.wired.com/2015/10/jailed-activist-bassel-khartabil-3d-models-could-save-syrian-history-from-isis/
+  title: A Jailed Activist's 3-D Models Could Save Syria's History From ISIS
+  author: Andy Greenberg
+  date: 2015-10-21
+  source: Wired
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "Artists and Writers Celebrate the Work of Missing Syrian Developer Bassel Safadi"
-  source: "Global Voices"
-  link: https://globalvoices.org/2017/06/05/artists-and-writers-celebrate-the-work-of-missing-syrian-developer-bassel-safadi/
-  language: en
+- link: https://rsf.org/fr/actualites/lexecution-en-2015-du-syrien-bassel-khartabil-confirmee
+  title: L'exécution en 2015 du Syrien Bassel Khartabil confirmée
+  author: null
+  date: 2017-08-02
+  source: Reporters Without Borders
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "Wikipedia founder: Information can beat oppression"
-  source: "CNN"
-  link: http://edition.cnn.com/2016/01/20/opinions/wales-wikipedia-information-beats-oppression/
-  language: en
+- link: http://one.abc.es/reconstruir-la-ciudad-de-palmira-gracias-internet/
+  title: Reconstruir la ciudad de Palmira gracias a Internet
+  author: Noelia Núñez
+  date: 2017-08-03
+  source: ABC
+  wayback: https://web.archive.org/web/20170309102852/http://one.abc.es/reconstruir-la-ciudad-de-palmira-gracias-internet/
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "Armas 3D desde Murcia contra las bombas del ISIS"
-  source: "El Mundo"
-  link: http://www.elmundo.es/papel/historias/2016/08/08/57a8654222601dfa1a8b4647.html
-  language: es
+- link: http://www.bostonmagazine.com/arts-entertainment/blog/2015/11/10/mit-media-lab-new-palmyra-project/
+  title: MIT Media Lab Joins New Palmyra Project
+  author: Olga Khvan
+  date: 2015-11-10
+  source: Boston Magazine
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "Tech world takes on icon-smashing Islamic State with a virtual Palmyra"
-  source: "Christian Science Monitor"
-  link: http://www.csmonitor.com/World/Middle-East/2015/1124/Tech-world-takes-on-icon-smashing-Islamic-State-with-a-virtual-Palmyra
-  language: en
+- link: http://www.malaysiandigest.com/world/690564-bassel-khartabil-missing-syrian-palestinian-executed.html
+  title: 'Bassel Khartabil: Missing Syrian-Palestinian ''Executed'''
+  author: null
+  source: Malaysian Digest
+  date: 2017-08-03
+  wayback: https://web.archive.org/web/20170803194829/http://www.malaysiandigest.com/world/690564-bassel-khartabil-missing-syrian-palestinian-executed.html
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "Barry Threw at Shenzhen Assembly 2016"
-  link: https://www.youtube.com/watch?v=z8t4dWg_O5Y
-  categories: [ video ]
+- link: https://creativecommons.org/2018/02/07/bassel-post/
+  title: Bassel Khartabil post
+  author: Jennie Rose Halperin
+  date: 2018-02-07
+  source: Creative Commons
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "Against a Pile of Ashes"
-  source: "Victoria and Albert Museum"
-  link: http://www.vam.ac.uk/blog/research-department/against-a-pile-of-ashes
-  language: en
+- link: https://www.eff.org/deeplinks/2017/08/bassel-khartabil-memoriam
+  title: Bassel Khartabil, In Memoriam
+  author: Danny O'Brien
+  date: 2017-08-01
+  source: Electronic Frontier Foundation
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "باسل خرطبيل، السجين السوري الذي يكاد يفقد حياته من أجل الإنترنت "
-  source: "Global Voices"
-  link: https://ar.globalvoices.org/2015/12/03/40385/
-  language: ar 
-
-- title: "An Open-Source Project to Rebuild Palmyra"
-  source: "Architect Magazine"
-  link: http://www.architectmagazine.com/technology/an-open-source-project-to-rebuild-palmyra_o
-  language: en
+- link: http://www.haaretz.com/middle-east-news/syria/1.804792
+  title: Syrian Internet activist executed
+  author: Omer Benjakob
+  date: 2017-08-02
+  source: Haaretz
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "Missing Syrian internet activist Bassel Khartabil executed in 2015"
-  source: "CNN"
-  link: http://www.cnn.com/2017/08/02/middleeast/syrian-internet-activist-executed/index.html
-  language: en
+- link: https://www.inverse.com/article/34981-freebassel-bassel-khartabil-execution-october-2015-syria
+  title: Bassel Khartabil executed October 2015
+  author: Katie Way
+  date: 2017-08-02
+  source: Inverse
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "Honouring Bassel Khartabil, Syrian digital activist"
-  source: "Index on Censorship"
-  link: https://www.indexoncensorship.org/2017/08/honouring-bassel-khartabil-syrian-digital-activist/
-  language: en
+- link: http://www.smithsonianmag.com/history/heroic-effort-digitally-reconstruct-lost-monuments-180958098/
+  title: The Heroic Effort to Digitally Reconstruct Lost Monuments
+  author: Katie Nodjimbadem
+  date: 2016-03-01
+  source: Smithsonian Magazine
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "#NewPalmyra Crowdsources the Majestic History That ISIS Destroyed in Syria"
-  source: "Global Voices"
-  link: https://globalvoices.org/2016/04/01/newpalmyra-crowdsources-the-majestic-history-that-isis-in-syria-destroyed/
-  language: en
+- link: http://joi.ito.com/weblog/2015/10/22/mit-media-lab-r.html
+  title: MIT Media Lab Research Position for Bassel Khartabil
+  author: Joi Ito
+  date: 2015-10-22
+  source: joi.ito.com
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "Archaeologists armed with ‘cheap’ 3D cameras hope to rebuild ancient sites razed by Islamic State"
-  source: "news.com.au"
-  link: http://www.news.com.au/world/middle-east/archaeologists-armed-with-cheap-3d-cameras-hope-to-rebuild-ancient-sites-razed-by-islamic-state/story-fnh81ifq-1227585618935
-  language: en
+- link: https://globalvoices.org/2017/06/05/artists-and-writers-celebrate-the-work-of-missing-syrian-developer-bassel-safadi/
+  title: Artists and Writers Celebrate the Work of Missing Syrian Developer Bassel Safadi
+  author: Afef Abrougui
+  date: 2017-06-05
+  source: Global Voices
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "Should museums be recreating the past?"
-  source: "Creative Review"
-  link: https://www.creativereview.co.uk/cr-blog/2016/july/should-museums-be-recreating-the-past/
-  language: en
+- link: http://edition.cnn.com/2016/01/20/opinions/wales-wikipedia-information-beats-oppression/
+  title: 'Wikipedia: Information beats oppression'
+  author: Jimmy Wales
+  date: 2016-01-20
+  source: CNN
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "Erasing Isis: how 3D technology now lets us copy and rebuild entire cities"
-  source: "Guardian"
-  link: http://www.theguardian.com/cities/2016/may/27/isis-palmyra-3d-technology-copy-rebuild-city-venice-biennale
-  language: en
+- link: http://www.elmundo.es/papel/historias/2016/08/08/57a8654222601dfa1a8b4647.html
+  title: Armas 3D desde Murcia contra las bombas del ISIS
+  author: Francisco Carrión
+  date: 2016-08-08
+  source: El Mundo
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "Archaeologists Revive Missing Activist's Dream Of Reconstructing Palmyra"
-  source: "Huffington Post"
-  link: http://www.huffingtonpost.com/entry/new-palmyra-project-bassel-khartabil_us_5694175de4b0c8beacf80a9a
-  language: en
+- link: http://www.csmonitor.com/World/Middle-East/2015/1124/Tech-world-takes-on-icon-smashing-Islamic-State-with-a-virtual-Palmyra
+  title: Tech world takes on icon-smashing Islamic State with a virtual Palmyra
+  author: Dominique Soguel
+  date: 2015-11-24
+  source: Christian Science Monitor
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "The problem with rebuilding a Palmyra ruin destroyed by ISIS – does it simply help Assad?"
-  source: "Washington Post"
-  link: https://www.washingtonpost.com/news/worldviews/wp/2016/04/20/the-problem-with-rebuilding-a-roman-ruin-destroyed-by-isis-does-it-simply-help-assad/
-  language: en
+- link: http://www.vam.ac.uk/blog/research-department/against-a-pile-of-ashes
+  title: Against a Pile of Ashes
+  author: Brendan Cormier
+  date: 2017-06-15
+  source: Victoria and Albert Museum
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "A Virtual Legacy Lives On"
-  source: "FON Formnext Mag"
-  link: http://fon-mag.de/trends/2017-02-palmyra/?L=1
-  language: en
+- link: https://ar.globalvoices.org/2015/12/03/40385/
+  title: Global Voices Arabic coverage
+  author: null
+  date: 2015-12-03
+  source: Global Voices (Arabic)
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "Programmers and artists are fighting ISIL’s destruction with 3D printers"
-  source: "Quartz"
-  link: http://qz.com/599752/programmers-and-artists-are-fighting-isils-destruction-with-3d-printers/
-  language: en
+- link: http://www.architectmagazine.com/technology/an-open-source-project-to-rebuild-palmyra_o
+  title: An Open-Source Project to Rebuild Palmyra
+  author: Hallie Busta
+  date: 2015-10-23
+  source: Architect Magazine
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "Wikipedia Goes 3D Allowing Users to Upload .STLS For Digital Reference"
-  source: "3d Printing Industry"
-  link: https://3dprintingindustry.com/news/wikipedia-goes-3d-allowing-users-upload-stls-digital-reference-129340/
-  language: en
+- link: http://www.cnn.com/2017/08/02/middleeast/syrian-internet-activist-executed/index.html
+  title: Missing Syrian internet activist Bassel Khartabil executed in 2015, wife says
+  author: Tamara Qiblawi
+  date: 2017-08-02
+  source: CNN
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "3D printed replica of destroyed Palmyra Tetrapylon showcased at Creative Commons Summit"
-  source: "3ders.org"
-  link: http://www.3ders.org/articles/20170502-3d-printed-replica-of-destroyed-palmyra-tetrapylon-showcased-at-creative-commons-summit.html
-  language: en
+- link: https://www.indexoncensorship.org/2017/08/honouring-bassel-khartabil-syrian-digital-activist/
+  title: Honouring Bassel Khartabil, Syrian digital activist
+  author: Elvia Wilk
+  date: 2016-06-30
+  source: Index on Censorship
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "In Memorium Bassel Khartabil"
-  source: "Lorna Campbell"
-  link: http://lornamcampbell.org/history/in-memorium-bassel-khartabil/
-  language: en
+- link: https://globalvoices.org/2016/04/01/newpalmyra-crowdsources-the-majestic-history-that-isis-in-syria-destroyed/
+  title: NewPalmyra Crowdsources the Majestic History that ISIS in Syria Destroyed
+  author: Rami Alhames
+  date: 2016-04-01
+  source: Global Voices
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "Honoring Our Friend Bassel: Announcing the Bassel Khartabil Free Culture Fellowship"
-  source: "Creative Commons"
-  link: https://creativecommons.org/2017/08/11/bassel-free-culture-fellowship/
-  language: en
+- link: https://www.news.com.au/world/middle-east/archaeologists-armed-with-cheap-3d-cameras-hope-to-rebuild-ancient-sites-razed-by-islamic-state/news-story/8968c08b1050a978b0bc283346b776f7
+  title: Archaeologists armed with cheap 3D cameras hope to rebuild ancient sites razed by Islamic State
+  author: Rohan Smith
+  date: 2015-10-28
+  source: News.com.au
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "Syrie: qu’est devenu le prisonnier Bassel Khartabil, pionnier syrien de l’Internet libre?"
-  source: "France24"
-  link: http://www.france24.com/fr/20151218-bassel-khartabil-disparition-prison-syrie-pionnier-internet-libre-syrie-assad
-  language: fr 
-  project: 2015-10-01-newpalmyra
-  selected: no  
+- link: https://www.creativereview.co.uk/should-museums-be-recreating-the-past/
+  title: Should museums be recreating the past?
+  author: Mark Sinclair
+  date: 2016-07-01
+  source: Creative Review
+  project: 2016-06-13-palmyrene-column
 
-- title: "Internetaktivister genrejser Palmyra uden Islamisk Stats &oslash;del&aelig;ggelser"
-  source: "Politiken"
-  link: http://politiken.dk/kultur/arkitektur/ECE2928172/internetaktivister-genrejser-palmyra-uden-islamisk-stats-oedelaeggelser/
-  language: dk
+- link: http://www.theguardian.com/cities/2016/may/27/isis-palmyra-3d-technology-copy-rebuild-city-venice-biennale
+  title: 'Erasing Isis: how 3D technology now lets us copy and rebuild entire cities'
+  date: 2016-05-27
+  author: Paul Clammer
+  source: The Guardian
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "Radio interview with Barry Threw on Bassel Khartabil: the missing Syrian open-source software developer"
-  source: "ORF FM4 Radio"
-  link: http://fm4.orf.at/player/20160201/RC/133055
-  language: en
+- link: http://www.huffingtonpost.com/entry/new-palmyra-project-bassel-khartabil_us_5694175de4b0c8beacf80a9a
+  title: New Palmyra Project
+  author: Index on Censorship
+  date: 2017-08-02
+  source: HuffPost
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "Director Barry Threw at ProtoCultural Paris 2015"
-  link: https://vimeo.com/146124282
-  categories: [ video ]
-
-- title: "Man who created 3D version of Palmyra before city was destroyed by ISIS killed by Assad regime"
-  source: "Evening Standard"
-  link: https://www.standard.co.uk/news/world/man-who-created-3d-version-of-palmyra-before-it-was-destroyed-by-isis-killed-by-assad-regime-a3603436.html
-  language: en
+- link: https://www.washingtonpost.com/news/worldviews/wp/2016/04/20/the-problem-with-rebuilding-a-roman-ruin-destroyed-by-isis-does-it-simply-help-assad/
+  title: The problem with rebuilding a Roman ruin destroyed by ISIS
+  author: Adam Taylor
+  date: 2016-04-20
+  source: Washington Post
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "Disappeared Palestinian-Syrian software developer reportedly executed"
-  source: "Electronic Intifada"
-  link: https://electronicintifada.net/blogs/maureen-clare-murphy/disappeared-palestinian-syrian-software-developer-reportedly-executed
-  language: en
+- link: http://qz.com/599752/programmers-and-artists-are-fighting-isils-destruction-with-3d-printers/
+  title: Programmers and artists are fighting ISIL's destruction with 3D printers
+  author: Thu-Huong Ha
+  date: 2022-07-20
+  source: Quartz
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "Story of cities #28: how postwar Warsaw was rebuilt using 18th century paintings"
-  source: "Guardian"
-  link: https://www.theguardian.com/cities/2016/apr/22/story-cities-warsaw-rebuilt-18th-century-paintings
-  language: en
-  project: 2015-10-01-newpalmyra
-  selected: no  
+- link: https://3dprintingindustry.com/news/wikipedia-goes-3d-allowing-users-upload-stls-digital-reference-129340/
+  title: Wikipedia goes 3D allowing users upload STLs for digital reference
+  author: Beau Jackson
+  date: 2018-02-22
+  source: 3D Printing Industry
+  project: 2017-10-20-tetrapylon
 
-- title: "Syrian Activist Bassel Khartabil Reportedly Killed by Assad Regime"
-  source: "Albawaba News"
-  link: https://www.albawaba.com/news/syrian-activist-bassel-khartabil-reportedly-killed-assad-regime-1004722
-  language: en
-  project: 2015-10-01-newpalmyra
-  selected: no  
+- link: http://www.3ders.org/articles/20170502-3d-printed-replica-of-destroyed-palmyra-tetrapylon-showcased-at-creative-commons-summit.html
+  title: 3D printed replica of destroyed Palmyra Tetrapylon showcased at Creative Commons Summit
+  author: Tess
+  date: 2017-05-02
+  source: 3Ders.org
+  project: 2017-10-20-tetrapylon
 
-- title: "#NEWPALMYRA, la technologie face à la barbarie"
-  source: "ARTE futuremag"
-  link: http://futuremag.asf-prod.arte.tv/fr/newpalmyra-la-technologie-face-la-barbarie-futuremag-0
-  language: fr
+- link: http://lornamcampbell.org/history/in-memorium-bassel-khartabil/
+  title: In Memoriam Bassel Khartabil
+  author: Lorna M. Campbell
+  date: 2017-08-11
+  source: Lorna M. Campbell Blog
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "Bassel lived for a peaceful and open Syria - so they killed him"
-  source: "Independent IE"
-  link: http://www.independent.ie/world-news/middle-east/bassel-lived-for-a-peaceful-and-open-syria-so-they-killed-him-36002406.html
-  language: en
-  project: 2015-10-01-newpalmyra
-  selected: no  
+- link: https://creativecommons.org/2017/08/11/bassel-free-culture-fellowship/
+  title: 'Honoring Our Friend Bassel: Announcing the Bassel Khartabil Free Culture Fellowship'
+  author: Katherine Maher, Mark Surman, Ryan Merkley
+  date: 2017-08-11
+  source: Creative Commons
+  project: 2018-04-15-bassel-fellowship
 
-- title: "How Virtual Reality Could Change the Art World"
-  source: "JStor Daily"
-  link: https://daily.jstor.org/how-virtual-reality-could-change-the-art-world/
-  language: en
+- link: http://www.france24.com/fr/20151218-bassel-khartabil-disparition-prison-syrie-pionnier-internet-libre-syrie-assad
+  title: 'Bassel Khartabil: Disparition prison Syrie'
+  author: Sébastian Seibt
+  date: 2015-12-18
+  source: France 24
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "Disappeared Syrian Activist&#039;s 3-D Models Could Save Palmyra"
-  source: "The Voice of America"
-  link: http://m.voanews.com/a/bassel-khartabil-palmyra-creative-commons-syria-islamic-state/3033453.html
-  language: en
+- link: http://politiken.dk/kultur/arkitektur/ECE2928172/internetaktivister-genrejser-palmyra-uden-islamisk-stats-oedelaeggelser/
+  title: Internetaktivister genrejser Palmyra
+  author: Marcus Rubin
+  date: 2015-11-13
+  source: Politiken
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "How a 3D-printed piece of Palmyra landed in Toronto"
-  source: "CBC News"
-  link: http://www.cbc.ca/news/technology/3d-printed-tetrapylon-palmyra-syria-creative-commons-1.4090368
-  language: en
+- link: https://www.standard.co.uk/news/world/man-who-created-3d-version-of-palmyra-before-it-was-destroyed-by-isis-killed-by-assad-regime-a3603436.html
+  title: Man who created 3D version of Palmyra before it was destroyed by ISIS killed by Assad regime
+  author: Eleanor Rose
+  date: 2017-08-03
+  source: Evening Standard
   project: 2015-10-01-newpalmyra
-  selected: no  
 
-- title: "What’s the Value of Recreating the Palmyra Arch with Digital Technology?"
-  source: "Hyperallergic"
-  link: http://hyperallergic.com/292006/whats-the-value-of-recreating-the-palmyra-arch-with-digital-technology/?wt=2
-  language: en
+- link: https://electronicintifada.net/blogs/maureen-clare-murphy/disappeared-palestinian-syrian-software-developer-reportedly-executed
+  title: Disappeared Palestinian-Syrian software developer reportedly executed
+  author: Maureen Clare Murphy
+  date: 2017-08-03
+  source: Electronic Intifada
   project: 2015-10-01-newpalmyra
-  selected: no  
-
-- title: "Art, Tech, and Gentrification in San Francisco"
-  source: "Hyperallergic"
-  link: https://hyperallergic.com/99205/art-tech-and-gentrification-in-san-francisco
-  language: en
-  project: "Artup"
-  selected: no
-
-- title: "Kris Bowers: Launching a New Visual Experience"
-  source: "SFJAZZ: On The Corner"
-  link: https://www.sfjazz.org/onthecorner/kris-bowers-visual-experience/
-  date: 2021-09
-  language: en
-  project: "SFJAZZ"
-  selected: no
 
-- title: "Gray Area Foundation: Barry Threw"
-  source: "smART Magazine"
-  link: https://www.smartbylighthouse.com/grayareafoundationforthearts
-  date: 2021-09
-  language: en
-  selected: no
+- link: https://www.theguardian.com/cities/2016/apr/22/story-cities-warsaw-rebuilt-18th-century-paintings
+  title: 'Story of cities #28: how postwar Warsaw was rebuilt using 18th century paintings'
+  author: Daryl Mersom
+  date: 2016-04-22
+  source: The Guardian
+  project: 2015-10-01-newpalmyra
 
+- link: https://www.albawaba.com/news/syrian-activist-bassel-khartabil-reportedly-killed-assad-regime-1004722
+  title: Syrian activist Bassel Khartabil reportedly killed by Assad regime
+  author: null
+  date: 2017-08-02
+  source: Al Bawaba
+  project: 2015-10-01-newpalmyra
+
+- link: http://www.independent.ie/world-news/middle-east/bassel-lived-for-a-peaceful-and-open-syria-so-they-killed-him-36002406.html
+  title: Bassel lived for a peaceful and open Syria, so they killed him
+  author: Mary Fitzgerald
+  date: 2017-08-04
+  source: Irish Independent
+  project: 2015-10-01-newpalmyra
+
+- link: https://daily.jstor.org/how-virtual-reality-could-change-the-art-world/
+  title: How Virtual Reality Could Change the Art World
+  author: Allana Mayer
+  date: 2017-06-30
+  source: JSTOR Daily
+  project: 2015-10-01-newpalmyra
+
+- link: https://www.voanews.com/a/bassel-khartabil-palmyra-creative-commons-syria-islamic-state/3033453.html
+  title: Disappeared Syrian Activist's 3-D Models Could Save Palmyra
+  author: Diana Logreira
+  date: 2015-11-02
+  source: Voice of America
+  project: 2015-10-01-newpalmyra
+
+- link: http://www.cbc.ca/news/technology/3d-printed-tetrapylon-palmyra-syria-creative-commons-1.4090368
+  title: How a 3D-printed piece of Palmyra landed in Toronto
+  author: Matthew Braga
+  date: 2017-05-02
+  source: CBC News
+  project: 2017-10-20-tetrapylon
+
+- link: http://hyperallergic.com/292006/whats-the-value-of-recreating-the-palmyra-arch-with-digital-technology/
+  title: What's the Value of Recreating the Palmyra Arch with Digital Technology?
+  author: Claire Voynovskaya
+  date: 2016-04-19
+  source: Hyperallergic
+  project: 2015-10-01-newpalmyra
+
+- link: https://hyperallergic.com/99205/art-tech-and-gentrification-in-san-francisco
+  title: Art, Tech, and Gentrification in San Francisco
+  author: Dorothy R. Santos
+  date: 2013-12-19
+  source: Hyperallergic
+  project: 2013-04-02-artup
+
+- link: https://www.sfjazz.org/onthecorner/kris-bowers-visual-experience/
+  title: Kris Bowers Visual Experience
+  author: Richard Scheinin
+  date: 2021-09-15
+  source: On the Corner
+  project: 
+
+- link: https://www.smartbylighthouse.com/grayareafoundationforthearts
+  title: 'Gray Area Foundation: Barry Threw'
+  author: Justine Tenzer
+  date: 2021-05-14
+  source: smART Magazine
+  wayback: https://web.archive.org/web/20210514100225/https://www.smartbylighthouse.com/grayareafoundationforthearts
+  project: 
+
+- link: https://radicalxchange-s.simplecast.com/episodes/barry-threw-executive-artistic-director-of-gray-area
+  title: Barry Threw, Executive Artistic Director of Gray Area
+  author: Matthew Prewitt
+  date: 2023-10-03
+  source: RadicalxChange podcast
+  project: 
+
+- link: https://www.theartnewspaper.com/2024/01/18/technology-for-social-good-how-digital-artists-are-using-their-work-to-boost-inclusivity
+  title: 'Technology for social good: how digital artists are using their work to boost inclusivity'
+  author: Lauren Gallow and Gretchen Andrew
+  date: 2024-01-18
+  source: The Art Newspaper
+  project: 
+
+- link: https://brooklynrail.org/2024/03/artonic/Gray-Area-Stays-With-the-Trouble/
+  title: Gray Area Stays With the Trouble
+  author: Emilie Trice
+  date: 2024-03-01
+  source: Brooklyn Rail
+  project: 
+
+- link: https://sfist.com/2023/03/24/gray-areas-new-show-tech-mechs-celebrates-media-artist-rafael-lozano-hemmers-sprawling-immersive-body-of-work/
+  title: Gray Area's New Show 'TECH-MECHS' Celebrates Media Artist Rafael Lozano-Hemmer's Sprawling, Immersive Body of Work
+  author: Holly Secon
+  date: 2023-03-24
+  source: SFist
+  project: 
+
+- link: https://www.kqed.org/arts/13927028/reclaiming-the-technology-of-surveillance-and-deportation
+  title: Reclaiming the Technology of Surveillance and Deportation
+  author: Kristie Song
+  date: 2023-03-29
+  source: KQED
+  project: 
+
+- link: https://www.kqed.org/arts/13878103/gray-areas-new-virtual-platform-for-performances-talks-and-learning
+  title: Gray Area's New Virtual Platform for Performances, Talks and Learning
+  author: Nastia Voynovskaya
+  date: 2020-04-03
+  source: KQED
+  project: 
+
+- link: https://missionlocal.org/2020/02/12-artists-collaborate-at-gray-area-to-immerse-you-in-the-environment/
+  title: 12 Artists Collaborate at Gray Area to Immerse You in the Environment
+  author: Eli Black
+  date: 2020-02-12
+  source: Mission Local
+  project: 
+
+- link: https://www.wired.com/story/the-end-of-you-gray-area/
+  title: Duuuuude. What Happens if the Earth Gains Consciousness?
+  author: Michael Calore
+  date: 2020-02-11
+  source: Wired
+  project: 
+
+- link: https://www.thebolditalic.com/a-new-wave-of-interactive-art-is-taking-over-san-francisco/
+  title: A New Wave of Interactive Art Is Taking Over San Francisco
+  author: Katie Hunter
+  date: 2020-01-15
+  source: The Bold Italic
+  project: 
+
+- link: https://hyperallergic.com/gray-area-festival-ism-hexadome/
+  title: The Future of Conceptual, Immersive Art Hasn't Quite Arrived
+  author: Renée Reizman
+  date: 2019-08-02
+  source: Hyperallergic
+  project: 
+
+- link: https://48hills.org/2019/07/review-gray-area-festival/
+  title: 'Review: Gray Area Festival’s inferno of hybrid arts creativity'
+  author: Winston Mann
+  date: 2019-07-01
+  source: 48 Hills
+  project: 
+
+- link: https://www.kqed.org/arts/13836038/gray-area-announces-lineup-for-annual-art-music-and-tech-festival
+  title: Gray Area Announces Lineup for Annual Art, Music and Tech Festival
+  author: Nastia Voynovskaya
+  date: 2018-06-26
+  source: KQED
+  project: 
+
+- link: https://siliconprairienews.com/2017/08/art-hack-day-eclipse-shines-light-pairing-art-tech/
+  title: Art Hack Day Eclipse Shines Light on Pairing Art and Tech
+  author: Christine McGuigan
+  date: 2017-08-17
+  source: Silicon Prairie News
+  project: 2017-08-19-ahd-eclipse
+
+- link: https://entrepreneurquarterly.com/art-hack-day-eclipse-st-louis-2017/
+  title: Why Culture Should Eclipse Technology In St Louis
+  author: Jonathan Allen
+  date: 2017-08-01
+  source: Entrepreneur Quarterly
+  project: 2017-08-19-ahd-eclipse
+
+- link: https://www.adweek.com/performance-marketing/coca-cola-projection-mapping/
+  title: Coca-Cola Celebrates 125 Years With Epic Projection Mapping Campaign
+  author: Megan O'Neill
+  date: 2011-05-13
+  source: Adweek
+  project: 2011-07-03-coca-cola
+
+- link: https://www.timeoutdubai.com/knowledge/61007-the-sphere-at-the-dubai-mall-launches
+  title: The Sphere at the Dubai Mall Launches
+  author: Leah Simpson
+  date: 2015-03-04
+  source: Time Out Dubai
+  project: 2015-03-01-dubai-360
+
+- link: https://www.thenationalnews.com/uae/take-a-city-tour-of-dubai-inside-a-projection-theatre-ball-1.5644/
+  title: Take a city tour of Dubai inside a projection theatre ball
+  author: Nick Webster
+  date: 2015-03-03
+  source: The National
+  project: 2015-03-01-dubai-360
+
+- link: https://www.unep.org/news-and-stories/press-release/ahead-summit-un-headquarters-complex-becomes-canvas-inspiring-action
+  title: Ahead of Summit, UN Headquarters Complex Becomes Canvas for Inspiring Action
+  author: null
+  date: 2014-09-20
+  source: UNEP
+  project: 2014-09-23-illuminations
+
+- link: https://www.ledinside.com/lighting/2015/12/digital_mapping_from_projecting_change_leaves_onlookers_in_awe
+  title: Digital Mapping from Projecting Change Leaves Onlookers in Awe
+  author: Emma Chang
+  date: 2015-12-01
+  source: LEDinside
+  project: 
+
+- link: https://www.inparkmagazine.com/obscura-digital-completes-san-franciscos-largest-permanent-video-mapping-installation/
+  title: Obscura Digital completes San Francisco's largest permanent video mapping installation
+  author: Sarah Hotchkiss
+  date: 2022-01-20
+  source: InPark Magazine
+  project: 
+
+- link: https://www.kqed.org/arts/13861697/robot-performance-and-augmented-reality-gray-area-fest-explores-arts-new-frontiers
+  title: "Robot Performance and Augmented Reality: Gray Area Fest Explores Art's New Frontiers"
+  author: Nastia Voynovskaya
+  date: 2019-07-18
+  source: KQED
+  project: 
+
+- link: https://www.sfchronicle.com/entertainment/article/mission-district-s-gray-area-exists-where-art-21188373.php
+  title: Mission District’s Gray Area exists where art, technology intersect
+  author: Ryan Kost
+  date: 2018-07-20
+  source: San Francisco Chronicle
+  project: 
+
+- link: https://www.vice.com/en/article/an-arts-and-tech-community-finds-a-new-home-in-san-francisco/
+  title: An Arts and Tech Community Finds a New Home in San Francisco
+  author: Benoit Palop
+  date: 2015-06-02
+  source: Vice
+  project: 
+
+- link: https://www.sfchronicle.com/entertainment/article/3-million-to-go-to-s-f-venues-doubling-21173698.php
+  title: $3 Million to Go to S.F. Venues
+  author: Lily Janiak
+  date: 2021-03-17
+  source: San Francisco Chronicle
+  project: 
+
+- link: https://www.kqed.org/arts/13908328/frustrating-delays-in-city-funding-affect-over-200-sf-arts-nonprofits
+  title: Frustrating Delays in City Funding Affect Over 200 SF Arts Nonprofits
+  author: Sarah Hotchkiss
+  date: 2022-01-20
+  source: KQED
+  project: 
+
+- link: https://www.wired.com/story/gray-area-festival-2019/
+  title: Strap on Your Exoskeleton and Dance, Dance, Dance
+  author: Micahel Calore
+  date: 2019-07-30
+  source: Wired
+  project: 
+
+- link: https://hoodline.com/2023/03/neon-sign-for-mission-street-s-grand-theater-lights-up-for-the-first-time-in-decades/
+  title: Neon Sign For Mission Street's Grand Theater Lights Up For The First Time In Decades
+  author: Jay Barmann
+  date: 2023-03-01
+  source: Hoodline
+  project: 
+
+- link: https://www.artforum.com/news/preservation-project-uses-3d-printers-to-fight-isiss-destruction-of-heritage-sites-227656/
+  title: Preservation Project Uses 3D Printers to Fight ISIS's Destruction of Heritage Sites
+  author: Jay Barmann
+  date: 2023-03-13
+  source: Artforum
+  project: 2015-10-01-newpalmyra
+
+- link: https://www.e-flux.com/journal/74/59807/the-artist-in-consultance-welcome-to-the-new-management
+  title: 'The Artist in Consultance: Welcome to the New Management'
+  author: Elvia Wilk
+  date: 2016-06-01
+  source: e-flux journal
+  project: null
+
+- link: https://www.mozillafoundation.org/en/blog/bassel-khartabil-fellowship-awarded-dr-tarek-loubani-and-glia-combat-covid-19/
+  title: Bassel Khartabil Fellowship Awarded to Dr. Tarek Loubani and Glia to Combat COVID-19
+  author: Mozilla
+  date: 2020-04-02
+  source: Mozilla Foundation
+  project: 2018-04-15-bassel-fellowship
+
+- link: https://www.vice.com/en/article/obscura-digitals-massive-projection-series-turns-san-franciscos-exploratorium-into-a-technicolor-canvas/
+  title: Obscura Digital's Massive Projection Series Turns San Francisco's Exploratorium Into A Technicolor Canvas
+  author: Nathan Reese
+  date: 2013-04-29
+  source: Vice
+  project: 2013-05-11-exploratorium-emergence
+
+- link: https://www.digitalstudiome.com/news/article-4993-uae-40th-national-day
+  title: UAE 40th National Day
+  author: Brooke Sever
+  date: 2012-01-16
+  source: Digital Studio Middle East
+  project: 2011-12-12-sheikh-zayed-grand-mosque
+
+- link: https://hrf.org/latest/hrf-announces-the-art-in-protest-residency-program/
+  title: HRF Announces the Art in Protest Residency Program
+  author: null
+  date: 2021-06-30
+  source: Human Rights Foundation
+  project: null
+
+- link: https://web.archive.org/web/20071023182625/http://grandtextauto.org/2007/10/04/grand-opening/
+  project: 2007-08-05-screen
+  title: Grand Opening GTxA the Show
+  author: Andrew Stern
+  date: 2007-10-04
+  source: "Grand Text Auto"
+
+- link: https://web.archive.org/web/20090916194252/http://kotaku.com/307940/grand-text-auto-exhibit-opens
+  title: "Grand Text Auto Exhibit Opens"
+  author: Maggie Greene
+  date: 2007-10-07
+  source: Kotaku
+  project: 2007-08-05-screen
+
+- link: https://web.archive.org/web/20110518215629/http://www.immersivetech.org/academic/immersivetech-summit-2010-immersivetech-immy-awards/
+  project: 2007-09-13-starcave
+  title: ImmersiveTech Summit 2010 – ImmersiveTech Immy Awards
+  author: Albert Lai
+  date: 2011-05-12
+  source: imtech
+
+- link: https://web.archive.org/web/20080920143506/http://gizmodo.com/5052552/ucsds-starcave-is-a-real-3d-super+high+def-danger-room
+  project: 2007-09-13-starcave
+  title: UCSD's StarCAVE Is a Real 3D Super-High-Def Danger Room
+  author: Brian Lam
+  date: 2008-09-20
+  source: Gizmodo
+
+- link: https://www.sfcv.org/articles/review/brilliance-air
+  title: Brilliance in the Air
+  author: Lisa Hirsh
+  date: 2007-08-14
+  source: SF Classical Voice
+  project: 2009-09-13-rusty-air-in-carolina
+
+- link: https://web.archive.org/web/20091103164138/http://www.cluster.eu/2009/10/30/acclair-art-valuation-service-a-fairer-way-to-value-art/
+  title: "Acclair Art Valuation Service: a fairer way to value art"
+  date: 2009-10-30
+  source: Cluster
+  project: 2009-11-14-acclair-art-valuation
+
+- link: https://web.archive.org/web/20100305100518/http://www.commarts.com/interactive/cai10/hardrockrockwall.html
+  title: Communication Arts Annual 16 - Hard Rock Cafe RockWall
+  date: 2010-03-01
+  source: Communication Arts
+  project: 2009-11-14-rockwall
+
+- link: https://web.archive.org/web/20091003121047/http://blog.hardrock.com/post/2009/09/23/Hard-Rock-Cafe-Las-Vegas-Showcases-New-Tech.aspx
+  title: Hard Rock Cafe Las Vegas Showcases New Tech
+  date: 2009-09-23
+  source: Hard Rock News
+  project: 2009-11-14-rockwall
+
+- link: http://gizmodo.com/5354784/video-amazing-18+foot-wide-super+high+def-multi+user-multitouch-display
+  project: 2009-11-14-rockwall
+  title: Amazing 18-Foot Wide Super-HD Multi-User Multitouch Display
+  date: 2009-09-08
+  source: Gizmodo
+  author: Danny Allen
+
+- link: http://www.engadget.com/2009/09/09/video-hard-rock-cafe-vegas-strip-gets-ginormous-interactive-roc/
+  author: Darren Murph
+  date: 2009-09-09
+  title: "Hard Rock Cafe Vegas Strip gets ginormous interactive Rock Wall"
+  project: 2009-11-14-rockwall
+  source: Engadget
+
+- link: http://rosettaproject.org/blog/02010/mar/1/global-lives-project-world-premiere-opening-night/
+  project: 2010-03-13-global-lives-ybca
+  title: The Global Lives Project - World Premiere Opening Night
+  date: 2010-03-01
+  source: The Rosetta Project
+  author: Laura Welcher
+
+- link: http://boingboing.net/2010/02/24/global-lives-project.html
+  project: 2010-03-13-global-lives-ybca
+  title: Global Lives Project video installation
+  date: 2010-02-24
+  source: Boing Boing
+  author: David Pescovitz
+
+- link: https://web.archive.org/web/20100304041651/http://www.socialearth.org/ybca-premieres-global-lives-project
+  title: YBCA Premieres Global Lives Project
+  author: Ashley
+  date: 2010-02-25
+  source: Social Earth
+  project: 2010-03-13-global-lives-ybca
+
+- link: https://www.7x7.com/everyday-people-global-lives-opens-at-ybca-1779425381.html
+  title: "Everyday People: 'Global Lives' Opens At YBCA"
+  author: 7x7 Editors
+  date: 2010-02-25
+  source: 7x7
+  project: 2010-03-13-global-lives-ybca
+
+- link: https://web.archive.org/web/20110508213823/http://www.myfoxatlanta.com/dpp/news/local_news/coke-building-lights-up-20110506-es
+  title: Big Thank You Card Lights Up Coke Building on 125th Anniversary
+  date: 2011-05-06
+  author: Justin Gray
+  source: My Fox Atlanta
+  project: 2011-07-03-coca-cola
+
+- link: https://web.archive.org/web/20110515120155/http://www.digitalsignageexpo.net/DNNArticleMaster/DNNArticleView/tabid/78/ArticleId/4901/Coca-Cola-Co-Celebrates-125th-Anniversary-by-Illuminating-Headquarter-Building-With-Digital-Projecti.aspx
+  title: Coca-Cola Co. Celebrates 125th Anniversary by Illuminating Headquarters Building With Digital Projection
+  date: 2011-05-10
+  source: Digital Signage Expo
+  project: 2011-07-03-coca-cola
+
+- link: https://web.archive.org/web/20110510064945/http://seekingalpha.com/news-article/1042485-addingmultimedia-the-coca-cola-company-illuminates-headquarters-building-as-thank-you-for-125th-anniversary
+  title: The Coca-Cola Company Illuminates Headquarters Building as “Thank You” for 125th Anniversary
+  date: 2011-05-07
+  source: Seeking Alpha
+  project: 2011-07-03-coca-cola
+
+- link: http://www.engadget.com/2011/06/22/softstep-keyworx-controls-your-pc-with-your-feet-turns-browsing/
+  title: SoftStep KeyWorx controls your PC with your feet, turns browsing into DDR
+  date: 2011-06-21
+  author: Terrence O'Brien
+  source: Engadget
+  project: 2011-07-04-softstep
+ 
+- link: https://web.archive.org/web/20130402172803/http://news.cnet.com/8301-17938_105-20073064-1/softstep-keyworx-controller-hands-free-computing/
+  title: "SoftStep KeyWorx controller: Hands-free computing"
+  author: Dong Ngo
+  date: 2011-06-21
+  source: CNet
+  project: 2011-07-04-softstep
+
+- link: http://blogs.forbes.com/briancaulfield/2011/06/21/at-last-now-you-can-control-your-computer-with-your-feet/
+  title: "At Last: Now You Can Control Your Computer With Your Feet"
+  author: Brian Caulfield
+  date: 2011-06-21
+  source: Forbes
+  project: 2011-07-04-softstep
+
+- link: http://www.theregister.co.uk/2011/06/21/softstep_keyworx/
+  project: 2011-07-04-softstep
+  title: Programmers urged to code with their tootsies
+  date: 2011-06-21
+  source: The Register
+  author: Rik Myslewski
+
+- link: http://www.pcmag.com/article2/0,2817,2387394,00.asp
+  title: KMI Launches Computer Keypad - For Your Feet
+  date: 2011-06-21
+  source: PC Mag
+  project: 2011-07-04-softstep
+
+- link: https://www.squarecylinder.com/2011/10/sacramento-airport-art-scores-a-hit/
+  project: 2011-09-22-active-ecosystem-smf
+  title: Sacramento Airport Art Scores a Hit
+  date: 2011-10-19
+  source: Square Cylinder
+  author: David M. Roth
+
+- link: https://web.archive.org/web/20120826165109/http://sacmetroarts.org/CamilleUtterback.html
+  title: Active Ecosystem (SMF)
+  source: Sacramento Art Commission
+  project: 2011-09-22-active-ecosystem-smf
+  date: 2011-10-19
+
+- link: https://web.archive.org/web/20131108233630/https://www.wired.com/insights/2013/11/technology-and-the-evolution-of-live-performance/
+  title: Technology and the Evolution of Live Performance
+  author: Keith McMillen
+  date: 2013-11-08
+  source: Wired
+  project: 2011-11-09-polar-suite
+
+- link: http://thecreatorsproject.vice.com/blog/majestic-islamic-architecture-transformed-by-colossal-projection-mapping-feat
+  title: Majestic Islamic Architecture Transformed By Colossal Projection Mapping Feat
+  author: Kathleen Flood
+  date: 2012-01-04
+  source: The Creators Project
+  project: 2011-12-12-sheikh-zayed-grand-mosque
+
+- link: http://goldengatexpress.org/2012/03/21/creators-project/
+  project: 2012-03-04-soundquake
+  title: Creators Project festival a successful experiment at Fort Mason
+  date: 2012-03-21
+  source: Golden Gate Xpress
+  author: Hunter Mulich
+
+- link: https://web.archive.org/web/20140323104644/http://www.artpractical.com/column/op-ed-reengineering-venture-culture-platforms-for-arttech/
+  title: "Re-engineering: Venture Culture | Platforms for Art+Tech"
+  date: 2014-03-19
+  author: Barry Threw
+  source: Art Practical
+  project: 2013-04-02-artup
+
+- link: https://web.archive.org/web/20140120075105/https://www.artpractical.com/column/re-engineering-part-one/
+  date: 2013-11-05
+  title: "Re-Engineering: Art and Tech in the Bay Area Part One"
+  author: Matt Dryhurst, Brian Rogers
+  source: Art Practical
+  project: 2013-04-02-artup
+
+- link: http://motionographer.com/2013/04/09/obscura-digital-emergence-at-the-exploratorium/
+  project: 2013-05-11-exploratorium-emergence
+  title: 'Obscura Digital: Emergence at the Exploratorium'
+  date: 2013-04-09
+  source: Motionographer
+  author: Michelle Higa Fox
+
+- link: http://gizmodo.com/5994274/exploratorium-reborn-inside-san-franciscos-new-shrine-to-innovation
+  project: 2013-05-11-exploratorium-emergence
+  title: Exploratorium Reborn Inside San Francisco's New Shrine to Innovation
+  date: 2013-04-12
+  source: Gizmodo
+  author: Alice Truong
+
+- link: https://www.theatlantic.com/video/2011/12/stunning-projection-mapping-on-the-sheikh-zayed-grand-mosque/468750/
+  title: Stunning Projection Mapping on the Sheikh Zayed Grand Mosque
+  date: 2011-12-13
+  source: The Atlantic
+  author: Kasia Cieplak-Mayr von Baldegg
+  project: 2011-12-12-sheikh-zayed-grand-mosque

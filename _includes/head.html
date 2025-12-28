@@ -6,12 +6,14 @@
   <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
   <meta name="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
 
-  <link rel="stylesheet" href="{{ "/assets/css/foundation.css" | prepend: site.baseurl }}">
-  <link rel="stylesheet" href="{{ "/assets/css/style.css" | prepend: site.baseurl }}">
-  <link rel="stylesheet" href="{{ "/assets/css/fontello.css" | prepend: site.baseurl }}">
-  <link rel="stylesheet" href="{{ "/assets/css/user.css" | prepend: site.baseurl }}">
+  <link rel="stylesheet" href="{{ "/assets/css/foundation.css" | prepend: site.baseurl }}" />
+  <link rel="stylesheet" href="{{ "/assets/css/style.css" | prepend: site.baseurl }}" />
+  <link rel="stylesheet" href="{{ "/assets/css/fontello.css" | prepend: site.baseurl }}" />
+  <link rel="stylesheet" href="{{ "/assets/css/user.css" | prepend: site.baseurl }}" />
+  <link rel="stylesheet" href="https://vjs.zencdn.net/8.23.4/video-js.css" />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins" />
 
-  <link rel="icon" type="image/png" href="{{ "/assets/img/avatar.png" | prepend: site.baseurl }}">
+  <link rel="icon" type="image/png" href="{{ "/assets/images/avatar.png" | prepend: site.baseurl }}" />
 
   <script src="{{ "/assets/js/libs.js" | prepend: site.baseurl }}" type="text/javascript"></script>
   <script>
@@ -30,8 +32,6 @@
         });
     })(Tc.$);
   </script>
-
-  <link href="https://fonts.googleapis.com/css?family=Poppins" rel="stylesheet">
 
   <script src="{{ "/assets/js/masonry.pkgd.js" | prepend: site.baseurl }}" type="text/javascript"></script>
   <script src="{{ "/assets/js/imagesloaded.pkgd.min.js" | prepend: site.baseurl }}" type="text/javascript"></script>

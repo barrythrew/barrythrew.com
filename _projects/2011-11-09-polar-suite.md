@@ -48,8 +48,5 @@ Bow Length – by interacting with the included fingerboard emitter, an infrared
 Bow Tilt – measures the angle of the bow, useful to know which string is being played
 By enabling the string quartet to access the unlimited sound world of the computer, the K-Bow advances western art music to places never before possible, and allows the interpretation of electronic scores by multiple ensembles. Complete with integrated software, the K-Bow applications feature sophisticated DSP processing that allow performers to process their sound, recording multitrack loops, control surround panning, and communicate with other software; all from their familiar instrument.
 
-**Mention:**
-* [Wired](https://www.wired.com/insights/2013/11/technology-and-the-evolution-of-live-performance/)
-
 **Performances:**
 * November 9, 2011 - College of Visual and Performing Arts at Syracuse University. 

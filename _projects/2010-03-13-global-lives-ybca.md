@@ -42,11 +42,3 @@ Sometimes projects with the simplest premises are the most complicated to execut
 Hundreds of volunteers from around the world make up our collective. Some are filmmakers and photographers, others are programmers and engineers, some are architects and designers, others are students and scholars &#8211; all are everyday people in their own contexts; each has participated according to his or her own motivations. They have donated, quite literally, thousands of hours towards bringing this project into being. This installation, our world premiere, offers us an opportunity to thank them, along with the generous communities that collaborated with us in each of these shoots.
 
 This project is designed to remain a work-in-progress. Our volunteers are subtitling all 240 hours of footage in their original languages and translating them into English and beyond. This will form the basis for our online, participatory library of human life experience &#8211;the other major venue for our work. We continue to accept new footage for our expanding archive &#8211; fresh additions to an evolving visual conversation.
-
-**Mention:**
-
-  * [The Rosetta Project](http://rosettaproject.org/blog/02010/mar/1/global-lives-project-world-premiere-opening-night/)
-  * [Boing Boing](http://boingboing.net/2010/02/24/global-lives-project.html)
-  * [Social Earth](http://www.socialearth.org/ybca-premieres-global-lives-project)
-  * [7&#215;7 Magazine](http://www.7x7.com/blogs/clamour/everyday-people-global-lives-opens-ybca)
-

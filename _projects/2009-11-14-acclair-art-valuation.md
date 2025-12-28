@@ -30,11 +30,6 @@ The Acclair Art Valuation Service, powered by its Neurocapital(tm) system, offer
 
 The Acclair Art Valuation Service presents the public with a clear, informative way to understand the empirical value of an artwork. Acclair clients such as curators, collectors and auction houses can utilize the service to obtain hard data in support of their acquisition choices; to monitor the public&#8217;s responses to art objects on display; and to predict future trends. The unbiased readings Acclair offers can be used to tailor displays to specific audiences, and to conduct valuable market research, thereby positioning institutions more favorably in the eyes of the communities they serve. Over time, Acclair findings could lead to a broader understanding of art&#8217;s ability to affect individual perception, as well as its larger social role.
 
-**Mention:**
-
-  * [Cluster](http://www.cluster.eu/2009/10/30/acclair-art-valuation-service-a-fairer-way-to-value-art/)
-  * [De Daily Whatever (pdf)](/files/pdf/ddw_24_10.pdf)
-
 **Exhibitions:**
 
   * Van Abbe Museum
