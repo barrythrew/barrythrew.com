@@ -6,10 +6,8 @@ link_to: portfolio-item
 layout: portfolio-item
 category: Curation & Production
 images:
-herovimeoid:
-  - 291140039
+herovimeoid: 291142402
 videos:
-  - 291142402
 description: 
 dates: 2018
 location: 

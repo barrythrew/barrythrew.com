@@ -1,0 +1,67 @@
+// Global variables
+int numlines = 800;
+float[] r = new float[numlines];
+float[] g = new float[numlines];
+float[] b = new float[numlines];
+
+// Setup the Processing Canvas
+function setup(){
+	var canvas = createCanvas(1400, 1400);
+	canvas.parent('canvas');
+}
+
+function resize(float X, float  Y) {
+  size(X,5);
+  numlines = X * 0.5;
+  fill();
+}
+
+function fill() {
+	r = new float[numlines];
+	g = new float[numlines];
+	b = new float[numlines];
+	
+	r[0] = random(200);
+	g[0] = random(200);
+	b[0] = random(200);
+	
+	for(int i = 1; i < numlines; i++) {
+		float stepsizer = random(20);
+		stepsizer -= 10;
+		float stepsizeg = random(20);
+		stepsizeg -= 10;
+		float stepsizeb = random(20);
+		stepsizeb -= 10;
+		
+		r[i] = r[i-1] + stepsizer; 
+		g[i] = g[i-1] + stepsizeg; 
+		b[i] = b[i-1] + stepsizeb; 
+	}
+}
+
+// Main draw loop
+function draw() {
+  	// Fill canvas grey
+  	//background(255);
+  
+	for(int i = 0; i < numlines; i++) {
+		//float rannum = random(100);
+		if (1) {
+			float stepsizer = random(20);
+			stepsizer -= 10;
+			float stepsizeg = random(20);
+			stepsizeg -= 10;
+			float stepsizeb = random(20);
+			stepsizeb -= 10;
+
+			r[i] += stepsizer;
+			g[i] += stepsizeg;
+			b[i] += stepsizeb;
+
+			stroke(r[i], g[i], b[i], 220);
+
+			line(i*2,0,i*2,150);	
+		 }
+		
+	}
+}

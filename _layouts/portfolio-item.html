@@ -66,17 +66,19 @@ section_id: portfolio
   </div>
   <div class='two spacing'></div>  
 
-  {% if page.videos %}
-  <div class='row'>
+  {% assign current_page = page.name | remove: ".md" %}
+  {% assign videos = site.data.videos | where: "project", current_page %}
+
+  {% if videos.size > 0 %}
+    <div class='row'>
       <ul class='large-block-grid-2 medium-block-grid-2 small-block-grid-2 separated press-video-grid'>
-            {% for video in page.videos %}
-                {% capture videoid %}{{ video }}{% endcapture %}
-                {% assign video_link = "https://player.vimeo.com/video/" | append: videoid %}
-                {% include videoPlayer.html link=video_link %}
+            {% for video in videos %}
+              {% include videoPlayer.html link=video.link %}
             {% endfor %}
-      </ul>
-      <div class='two spacing'></div>  
-  </div>
+        </ul>
+        <div class='two spacing'></div>  
+      </div>
+    </div>
   {% endif %}
   
   <div class='row'>

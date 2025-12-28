@@ -4,22 +4,22 @@ section_id: portfolio
 ---
 
 <div class='full'>
-  <div class='row'>
-      <ul class='large-block-grid-2 medium-block-grid-2 small-block-grid-2 separated press-video-grid'>
-          {% include videoPlayer.html link="https://player.vimeo.com/video/146124282" %}
-          {% include videoPlayer.html link="https://www.youtube.com/embed/FdltBJnCU60" %}
-          {% include videoPlayer.html link="https://player.vimeo.com/video/83632534" %}
-          {% include videoPlayer.html link="https://www.youtube.com/embed/z8t4dWg_O5Y" %}
-          {% include videoPlayer.html link="https://www.youtube.com/embed/K_LXaqo127Q" %}
-          {% include videoPlayer.html link="https://player.vimeo.com/video/5235085" %}
-          {% include videoPlayer.html link="https://www.youtube.com/embed/Kbtm2nQhr8U" %}
-          {% include videoPlayer.html link="https://www.youtube.com/embed/wc_dE2rfxDY" %}
-          {% include videoPlayer.html link="https://www.youtube.com/embed/kxCyhKj969Q" %}
-          {% include videoPlayer.html link="https://player.vimeo.com/video/26337139" %}
-          {% include videoPlayer.html link="https://www.youtube.com/embed/46eBHs2dhxc" %}
-          {% include videoPlayer.html link="https://player.vimeo.com/video/223784051" %}
-      </ul>
+ 
+  {% assign videos = site.data.videos | where: "project", null %}
 
+  {% if videos.size > 0 %}
+    <div class='row'>
+      <ul class='large-block-grid-2 medium-block-grid-2 small-block-grid-2 separated press-video-grid'>
+            {% for video in videos %}
+              {% include videoPlayer.html link=video.link %}
+            {% endfor %}
+        </ul>
+        <div class='two spacing'></div>  
+      </div>
+    </div>
+  {% endif %}
+
+    <div class='row'>
       <ul class="press_list">
       {% assign press_items_sorted = site.data.press | sort: 'date' | reverse %}
       {% for item in press_items_sorted %}
@@ -32,7 +32,7 @@ section_id: portfolio
       </li>
       {% endfor %}
       </ul>
-
+    </div>
   </div>
   <div class='four spacing'></div>
 </div>

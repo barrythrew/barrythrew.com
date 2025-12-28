@@ -1,6 +1,6 @@
 ---
 title: TrioMetrik
-date: 2009-09-13
+date: 2006-01-01
 thumbnail: thumbnail.jpg
 link_to: portfolio-item
 category: Design &amp; Development
