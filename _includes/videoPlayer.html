@@ -2,7 +2,7 @@
   <div itemprop="video" class="vidContainer">
     {% if include.link contains "vimeo" or include.link contains "youtube" %}
       <iframe 
-        src={{include.link}}
+        src="{{include.link}}"
         class="vidFrame"
         frameborder="0" 
         webkitallowfullscreen 
@@ -12,7 +12,7 @@
       </iframe>
     {% else %}
        <video controls>
-          <source src={{include.link}} type="video/mp4">
+          <source src="{{include.link}}" type="video/mp4">
         </video> 
     {% endif %}
   </div>
