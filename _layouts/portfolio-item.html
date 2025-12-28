@@ -66,9 +66,8 @@ section_id: portfolio
   </div>
   <div class='two spacing'></div>  
 
-  {% assign current_page = page.name | remove: ".md" %}
+  {% assign current_page = page.url | split: "/" | last | replace: page.ext, "" %}
   {% assign videos = site.data.videos | where: "project", current_page %}
-  {{ current_page }} -- {{ videos.size }} -- {{ page.slug }} -- {{ page.path }}
 
   {% if videos.size > 0 %}
     <div class='row'>
@@ -90,7 +89,6 @@ section_id: portfolio
 
   <div class='row'>
     <div class='contentblock'>
-      {% assign current_page = page.name | remove: ".md" %}
       {% assign press_items = site.data.press | where: "project", current_page %}
 
       {% if press_items.size > 0 %}
