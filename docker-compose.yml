@@ -15,7 +15,8 @@ services:
       - STAGING=false
       - CERTPROVIDER=zerossl
     volumes:
-      - ./_site:/config/www
+      - /home/barry/barrythrew.com/www/_site:/config/www
+      - /home/barry/barrythrew.com/config:/config
     ports:
       - 443:443
       - 80:80
